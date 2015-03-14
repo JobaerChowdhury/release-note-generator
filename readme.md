@@ -1,5 +1,6 @@
 # Simple Release note generator
- This application will generate release note for mentor project. 
+ This application will generate release note for github+jira project. The program takes two github tagnames as argument, one for the previous release tag and one for the current tag. Then it fetches all the commit messages between these two tags. For commit messages prefixed with JIRA key number it will fetch the title of the issue. Otherwise the commit message will be put verbatim. It will also ignore any commit message with the text "Merge".
+ 
  You need to have GHC platform installed to run this project.
  
 ## Steps to run
