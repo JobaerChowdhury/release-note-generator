@@ -8,6 +8,8 @@
   
   2. Update the config.cfg file for correct username and password.
   
-  3. Run `cabal build`
+  3. Run `cabal install --only-dependencies` 
   
-  4. Run `./dist/build/notegen/notegen <TAG-FROM> <TAG-TO>`
+  4. Run `cabal build`
+  
+  5. Run `./dist/build/notegen/notegen <TAG-FROM> <TAG-TO>`
