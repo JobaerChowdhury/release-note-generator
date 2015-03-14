@@ -1,0 +1,8 @@
+gh_user = "Github user"
+gh_pass = "github password"
+gh_url = "https://api.github.com/repos/Cefalo/mentor/compare/"
+
+jira_browse_url = "https://cefalo.atlassian.net/browse/"
+jira_user = "jira username"
+jira_pass = "jira password"
+jira_url = "https://cefalo.atlassian.net/rest/api/latest/issue/"

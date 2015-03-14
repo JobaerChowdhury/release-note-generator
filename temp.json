@@ -1,0 +1,1482 @@
+{
+  "url": "https://api.github.com/repos/Cefalo/mentor/compare/TAG-3.10.1...TAG-3.10.3",
+  "html_url": "https://github.com/Cefalo/mentor/compare/TAG-3.10.1...TAG-3.10.3",
+  "permalink_url": "https://github.com/Cefalo/mentor/compare/Cefalo:24d2d4d...Cefalo:aff3b1a",
+  "diff_url": "https://github.com/Cefalo/mentor/compare/TAG-3.10.1...TAG-3.10.3.diff",
+  "patch_url": "https://github.com/Cefalo/mentor/compare/TAG-3.10.1...TAG-3.10.3.patch",
+  "base_commit": {
+    "sha": "24d2d4d71ac94da3418063e12e4ea0a75b8e26f0",
+    "commit": {
+      "author": {
+        "name": "Sultan Mahmud",
+        "email": "sultan@cefalo.com",
+        "date": "2015-02-24T05:50:00Z"
+      },
+      "committer": {
+        "name": "Sultan Mahmud",
+        "email": "sultan@cefalo.com",
+        "date": "2015-02-24T05:50:00Z"
+      },
+      "message": "Common: EAS html script moved to a common place for all sites",
+      "tree": {
+        "sha": "72792b2417b7a571692d575a4814d1b306bc7b94",
+        "url": "https://api.github.com/repos/Cefalo/mentor/git/trees/72792b2417b7a571692d575a4814d1b306bc7b94"
+      },
+      "url": "https://api.github.com/repos/Cefalo/mentor/git/commits/24d2d4d71ac94da3418063e12e4ea0a75b8e26f0",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/Cefalo/mentor/commits/24d2d4d71ac94da3418063e12e4ea0a75b8e26f0",
+    "html_url": "https://github.com/Cefalo/mentor/commit/24d2d4d71ac94da3418063e12e4ea0a75b8e26f0",
+    "comments_url": "https://api.github.com/repos/Cefalo/mentor/commits/24d2d4d71ac94da3418063e12e4ea0a75b8e26f0/comments",
+    "author": {
+      "login": "sultanmahmud0",
+      "id": 7322604,
+      "avatar_url": "https://avatars.githubusercontent.com/u/7322604?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/sultanmahmud0",
+      "html_url": "https://github.com/sultanmahmud0",
+      "followers_url": "https://api.github.com/users/sultanmahmud0/followers",
+      "following_url": "https://api.github.com/users/sultanmahmud0/following{/other_user}",
+      "gists_url": "https://api.github.com/users/sultanmahmud0/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/sultanmahmud0/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/sultanmahmud0/subscriptions",
+      "organizations_url": "https://api.github.com/users/sultanmahmud0/orgs",
+      "repos_url": "https://api.github.com/users/sultanmahmud0/repos",
+      "events_url": "https://api.github.com/users/sultanmahmud0/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/sultanmahmud0/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "sultanmahmud0",
+      "id": 7322604,
+      "avatar_url": "https://avatars.githubusercontent.com/u/7322604?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/sultanmahmud0",
+      "html_url": "https://github.com/sultanmahmud0",
+      "followers_url": "https://api.github.com/users/sultanmahmud0/followers",
+      "following_url": "https://api.github.com/users/sultanmahmud0/following{/other_user}",
+      "gists_url": "https://api.github.com/users/sultanmahmud0/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/sultanmahmud0/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/sultanmahmud0/subscriptions",
+      "organizations_url": "https://api.github.com/users/sultanmahmud0/orgs",
+      "repos_url": "https://api.github.com/users/sultanmahmud0/repos",
+      "events_url": "https://api.github.com/users/sultanmahmud0/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/sultanmahmud0/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "bfeda0254cfe90341be40d5912fd0d87daeeb988",
+        "url": "https://api.github.com/repos/Cefalo/mentor/commits/bfeda0254cfe90341be40d5912fd0d87daeeb988",
+        "html_url": "https://github.com/Cefalo/mentor/commit/bfeda0254cfe90341be40d5912fd0d87daeeb988"
+      }
+    ]
+  },
+  "merge_base_commit": {
+    "sha": "24d2d4d71ac94da3418063e12e4ea0a75b8e26f0",
+    "commit": {
+      "author": {
+        "name": "Sultan Mahmud",
+        "email": "sultan@cefalo.com",
+        "date": "2015-02-24T05:50:00Z"
+      },
+      "committer": {
+        "name": "Sultan Mahmud",
+        "email": "sultan@cefalo.com",
+        "date": "2015-02-24T05:50:00Z"
+      },
+      "message": "Common: EAS html script moved to a common place for all sites",
+      "tree": {
+        "sha": "72792b2417b7a571692d575a4814d1b306bc7b94",
+        "url": "https://api.github.com/repos/Cefalo/mentor/git/trees/72792b2417b7a571692d575a4814d1b306bc7b94"
+      },
+      "url": "https://api.github.com/repos/Cefalo/mentor/git/commits/24d2d4d71ac94da3418063e12e4ea0a75b8e26f0",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/Cefalo/mentor/commits/24d2d4d71ac94da3418063e12e4ea0a75b8e26f0",
+    "html_url": "https://github.com/Cefalo/mentor/commit/24d2d4d71ac94da3418063e12e4ea0a75b8e26f0",
+    "comments_url": "https://api.github.com/repos/Cefalo/mentor/commits/24d2d4d71ac94da3418063e12e4ea0a75b8e26f0/comments",
+    "author": {
+      "login": "sultanmahmud0",
+      "id": 7322604,
+      "avatar_url": "https://avatars.githubusercontent.com/u/7322604?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/sultanmahmud0",
+      "html_url": "https://github.com/sultanmahmud0",
+      "followers_url": "https://api.github.com/users/sultanmahmud0/followers",
+      "following_url": "https://api.github.com/users/sultanmahmud0/following{/other_user}",
+      "gists_url": "https://api.github.com/users/sultanmahmud0/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/sultanmahmud0/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/sultanmahmud0/subscriptions",
+      "organizations_url": "https://api.github.com/users/sultanmahmud0/orgs",
+      "repos_url": "https://api.github.com/users/sultanmahmud0/repos",
+      "events_url": "https://api.github.com/users/sultanmahmud0/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/sultanmahmud0/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "sultanmahmud0",
+      "id": 7322604,
+      "avatar_url": "https://avatars.githubusercontent.com/u/7322604?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/sultanmahmud0",
+      "html_url": "https://github.com/sultanmahmud0",
+      "followers_url": "https://api.github.com/users/sultanmahmud0/followers",
+      "following_url": "https://api.github.com/users/sultanmahmud0/following{/other_user}",
+      "gists_url": "https://api.github.com/users/sultanmahmud0/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/sultanmahmud0/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/sultanmahmud0/subscriptions",
+      "organizations_url": "https://api.github.com/users/sultanmahmud0/orgs",
+      "repos_url": "https://api.github.com/users/sultanmahmud0/repos",
+      "events_url": "https://api.github.com/users/sultanmahmud0/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/sultanmahmud0/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "bfeda0254cfe90341be40d5912fd0d87daeeb988",
+        "url": "https://api.github.com/repos/Cefalo/mentor/commits/bfeda0254cfe90341be40d5912fd0d87daeeb988",
+        "html_url": "https://github.com/Cefalo/mentor/commit/bfeda0254cfe90341be40d5912fd0d87daeeb988"
+      }
+    ]
+  },
+  "status": "ahead",
+  "ahead_by": 13,
+  "behind_by": 0,
+  "total_commits": 13,
+  "commits": [
+    {
+      "sha": "034d6ec74e058270814f9d4273889211a53e3b98",
+      "commit": {
+        "author": {
+          "name": "maruf",
+          "email": "maruf@cefalo.com",
+          "date": "2015-02-24T04:38:42Z"
+        },
+        "committer": {
+          "name": "maruf",
+          "email": "maruf@cefalo.com",
+          "date": "2015-02-24T04:38:42Z"
+        },
+        "message": "MKT-73: Add Article text before entering discus",
+        "tree": {
+          "sha": "a309c5d1fa49eed80afc6d73e0d9bb6715171d6f",
+          "url": "https://api.github.com/repos/Cefalo/mentor/git/trees/a309c5d1fa49eed80afc6d73e0d9bb6715171d6f"
+        },
+        "url": "https://api.github.com/repos/Cefalo/mentor/git/commits/034d6ec74e058270814f9d4273889211a53e3b98",
+        "comment_count": 0
+      },
+      "url": "https://api.github.com/repos/Cefalo/mentor/commits/034d6ec74e058270814f9d4273889211a53e3b98",
+      "html_url": "https://github.com/Cefalo/mentor/commit/034d6ec74e058270814f9d4273889211a53e3b98",
+      "comments_url": "https://api.github.com/repos/Cefalo/mentor/commits/034d6ec74e058270814f9d4273889211a53e3b98/comments",
+      "author": {
+        "login": "maruf-cefalo",
+        "id": 8055335,
+        "avatar_url": "https://avatars.githubusercontent.com/u/8055335?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/maruf-cefalo",
+        "html_url": "https://github.com/maruf-cefalo",
+        "followers_url": "https://api.github.com/users/maruf-cefalo/followers",
+        "following_url": "https://api.github.com/users/maruf-cefalo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/maruf-cefalo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/maruf-cefalo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/maruf-cefalo/subscriptions",
+        "organizations_url": "https://api.github.com/users/maruf-cefalo/orgs",
+        "repos_url": "https://api.github.com/users/maruf-cefalo/repos",
+        "events_url": "https://api.github.com/users/maruf-cefalo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/maruf-cefalo/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "maruf-cefalo",
+        "id": 8055335,
+        "avatar_url": "https://avatars.githubusercontent.com/u/8055335?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/maruf-cefalo",
+        "html_url": "https://github.com/maruf-cefalo",
+        "followers_url": "https://api.github.com/users/maruf-cefalo/followers",
+        "following_url": "https://api.github.com/users/maruf-cefalo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/maruf-cefalo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/maruf-cefalo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/maruf-cefalo/subscriptions",
+        "organizations_url": "https://api.github.com/users/maruf-cefalo/orgs",
+        "repos_url": "https://api.github.com/users/maruf-cefalo/repos",
+        "events_url": "https://api.github.com/users/maruf-cefalo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/maruf-cefalo/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "b4803504a520f134f8ff87158d4a39ac72c94918",
+          "url": "https://api.github.com/repos/Cefalo/mentor/commits/b4803504a520f134f8ff87158d4a39ac72c94918",
+          "html_url": "https://github.com/Cefalo/mentor/commit/b4803504a520f134f8ff87158d4a39ac72c94918"
+        }
+      ]
+    },
+    {
+      "sha": "b813f3be244d32ea85524af33737783d0322a307",
+      "commit": {
+        "author": {
+          "name": "maruf",
+          "email": "maruf@cefalo.com",
+          "date": "2015-02-24T04:38:59Z"
+        },
+        "committer": {
+          "name": "maruf",
+          "email": "maruf@cefalo.com",
+          "date": "2015-02-24T04:38:59Z"
+        },
+        "message": "Merge branch 'master' of github.com:Cefalo/mentor",
+        "tree": {
+          "sha": "68f63b9f03499b81d6869a720373099be1a49226",
+          "url": "https://api.github.com/repos/Cefalo/mentor/git/trees/68f63b9f03499b81d6869a720373099be1a49226"
+        },
+        "url": "https://api.github.com/repos/Cefalo/mentor/git/commits/b813f3be244d32ea85524af33737783d0322a307",
+        "comment_count": 0
+      },
+      "url": "https://api.github.com/repos/Cefalo/mentor/commits/b813f3be244d32ea85524af33737783d0322a307",
+      "html_url": "https://github.com/Cefalo/mentor/commit/b813f3be244d32ea85524af33737783d0322a307",
+      "comments_url": "https://api.github.com/repos/Cefalo/mentor/commits/b813f3be244d32ea85524af33737783d0322a307/comments",
+      "author": {
+        "login": "maruf-cefalo",
+        "id": 8055335,
+        "avatar_url": "https://avatars.githubusercontent.com/u/8055335?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/maruf-cefalo",
+        "html_url": "https://github.com/maruf-cefalo",
+        "followers_url": "https://api.github.com/users/maruf-cefalo/followers",
+        "following_url": "https://api.github.com/users/maruf-cefalo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/maruf-cefalo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/maruf-cefalo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/maruf-cefalo/subscriptions",
+        "organizations_url": "https://api.github.com/users/maruf-cefalo/orgs",
+        "repos_url": "https://api.github.com/users/maruf-cefalo/repos",
+        "events_url": "https://api.github.com/users/maruf-cefalo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/maruf-cefalo/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "maruf-cefalo",
+        "id": 8055335,
+        "avatar_url": "https://avatars.githubusercontent.com/u/8055335?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/maruf-cefalo",
+        "html_url": "https://github.com/maruf-cefalo",
+        "followers_url": "https://api.github.com/users/maruf-cefalo/followers",
+        "following_url": "https://api.github.com/users/maruf-cefalo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/maruf-cefalo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/maruf-cefalo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/maruf-cefalo/subscriptions",
+        "organizations_url": "https://api.github.com/users/maruf-cefalo/orgs",
+        "repos_url": "https://api.github.com/users/maruf-cefalo/repos",
+        "events_url": "https://api.github.com/users/maruf-cefalo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/maruf-cefalo/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "034d6ec74e058270814f9d4273889211a53e3b98",
+          "url": "https://api.github.com/repos/Cefalo/mentor/commits/034d6ec74e058270814f9d4273889211a53e3b98",
+          "html_url": "https://github.com/Cefalo/mentor/commit/034d6ec74e058270814f9d4273889211a53e3b98"
+        },
+        {
+          "sha": "1043c257a1fae62a6f5a21d44998f010575b44e0",
+          "url": "https://api.github.com/repos/Cefalo/mentor/commits/1043c257a1fae62a6f5a21d44998f010575b44e0",
+          "html_url": "https://github.com/Cefalo/mentor/commit/1043c257a1fae62a6f5a21d44998f010575b44e0"
+        }
+      ]
+    },
+    {
+      "sha": "6bc5d65176da886ac7763d2b83ac9dccf05c90d4",
+      "commit": {
+        "author": {
+          "name": "maruf",
+          "email": "maruf@cefalo.com",
+          "date": "2015-02-24T07:20:04Z"
+        },
+        "committer": {
+          "name": "maruf",
+          "email": "maruf@cefalo.com",
+          "date": "2015-02-24T07:20:04Z"
+        },
+        "message": "MKT-73: add content file",
+        "tree": {
+          "sha": "c01be6fe48cc64747250625a5b2d6f62fc744b91",
+          "url": "https://api.github.com/repos/Cefalo/mentor/git/trees/c01be6fe48cc64747250625a5b2d6f62fc744b91"
+        },
+        "url": "https://api.github.com/repos/Cefalo/mentor/git/commits/6bc5d65176da886ac7763d2b83ac9dccf05c90d4",
+        "comment_count": 0
+      },
+      "url": "https://api.github.com/repos/Cefalo/mentor/commits/6bc5d65176da886ac7763d2b83ac9dccf05c90d4",
+      "html_url": "https://github.com/Cefalo/mentor/commit/6bc5d65176da886ac7763d2b83ac9dccf05c90d4",
+      "comments_url": "https://api.github.com/repos/Cefalo/mentor/commits/6bc5d65176da886ac7763d2b83ac9dccf05c90d4/comments",
+      "author": {
+        "login": "maruf-cefalo",
+        "id": 8055335,
+        "avatar_url": "https://avatars.githubusercontent.com/u/8055335?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/maruf-cefalo",
+        "html_url": "https://github.com/maruf-cefalo",
+        "followers_url": "https://api.github.com/users/maruf-cefalo/followers",
+        "following_url": "https://api.github.com/users/maruf-cefalo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/maruf-cefalo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/maruf-cefalo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/maruf-cefalo/subscriptions",
+        "organizations_url": "https://api.github.com/users/maruf-cefalo/orgs",
+        "repos_url": "https://api.github.com/users/maruf-cefalo/repos",
+        "events_url": "https://api.github.com/users/maruf-cefalo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/maruf-cefalo/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "maruf-cefalo",
+        "id": 8055335,
+        "avatar_url": "https://avatars.githubusercontent.com/u/8055335?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/maruf-cefalo",
+        "html_url": "https://github.com/maruf-cefalo",
+        "followers_url": "https://api.github.com/users/maruf-cefalo/followers",
+        "following_url": "https://api.github.com/users/maruf-cefalo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/maruf-cefalo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/maruf-cefalo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/maruf-cefalo/subscriptions",
+        "organizations_url": "https://api.github.com/users/maruf-cefalo/orgs",
+        "repos_url": "https://api.github.com/users/maruf-cefalo/repos",
+        "events_url": "https://api.github.com/users/maruf-cefalo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/maruf-cefalo/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "b813f3be244d32ea85524af33737783d0322a307",
+          "url": "https://api.github.com/repos/Cefalo/mentor/commits/b813f3be244d32ea85524af33737783d0322a307",
+          "html_url": "https://github.com/Cefalo/mentor/commit/b813f3be244d32ea85524af33737783d0322a307"
+        }
+      ]
+    },
+    {
+      "sha": "638ea7323356236879f4b97729d4fa8d30b35684",
+      "commit": {
+        "author": {
+          "name": "maruf",
+          "email": "maruf@cefalo.com",
+          "date": "2015-02-24T07:20:19Z"
+        },
+        "committer": {
+          "name": "maruf",
+          "email": "maruf@cefalo.com",
+          "date": "2015-02-24T07:20:19Z"
+        },
+        "message": "Merge branch 'master' of github.com:Cefalo/mentor",
+        "tree": {
+          "sha": "1d2daa804dc65c200989e99e7d7fdfdcd6248f33",
+          "url": "https://api.github.com/repos/Cefalo/mentor/git/trees/1d2daa804dc65c200989e99e7d7fdfdcd6248f33"
+        },
+        "url": "https://api.github.com/repos/Cefalo/mentor/git/commits/638ea7323356236879f4b97729d4fa8d30b35684",
+        "comment_count": 0
+      },
+      "url": "https://api.github.com/repos/Cefalo/mentor/commits/638ea7323356236879f4b97729d4fa8d30b35684",
+      "html_url": "https://github.com/Cefalo/mentor/commit/638ea7323356236879f4b97729d4fa8d30b35684",
+      "comments_url": "https://api.github.com/repos/Cefalo/mentor/commits/638ea7323356236879f4b97729d4fa8d30b35684/comments",
+      "author": {
+        "login": "maruf-cefalo",
+        "id": 8055335,
+        "avatar_url": "https://avatars.githubusercontent.com/u/8055335?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/maruf-cefalo",
+        "html_url": "https://github.com/maruf-cefalo",
+        "followers_url": "https://api.github.com/users/maruf-cefalo/followers",
+        "following_url": "https://api.github.com/users/maruf-cefalo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/maruf-cefalo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/maruf-cefalo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/maruf-cefalo/subscriptions",
+        "organizations_url": "https://api.github.com/users/maruf-cefalo/orgs",
+        "repos_url": "https://api.github.com/users/maruf-cefalo/repos",
+        "events_url": "https://api.github.com/users/maruf-cefalo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/maruf-cefalo/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "maruf-cefalo",
+        "id": 8055335,
+        "avatar_url": "https://avatars.githubusercontent.com/u/8055335?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/maruf-cefalo",
+        "html_url": "https://github.com/maruf-cefalo",
+        "followers_url": "https://api.github.com/users/maruf-cefalo/followers",
+        "following_url": "https://api.github.com/users/maruf-cefalo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/maruf-cefalo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/maruf-cefalo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/maruf-cefalo/subscriptions",
+        "organizations_url": "https://api.github.com/users/maruf-cefalo/orgs",
+        "repos_url": "https://api.github.com/users/maruf-cefalo/repos",
+        "events_url": "https://api.github.com/users/maruf-cefalo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/maruf-cefalo/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "6bc5d65176da886ac7763d2b83ac9dccf05c90d4",
+          "url": "https://api.github.com/repos/Cefalo/mentor/commits/6bc5d65176da886ac7763d2b83ac9dccf05c90d4",
+          "html_url": "https://github.com/Cefalo/mentor/commit/6bc5d65176da886ac7763d2b83ac9dccf05c90d4"
+        },
+        {
+          "sha": "24d2d4d71ac94da3418063e12e4ea0a75b8e26f0",
+          "url": "https://api.github.com/repos/Cefalo/mentor/commits/24d2d4d71ac94da3418063e12e4ea0a75b8e26f0",
+          "html_url": "https://github.com/Cefalo/mentor/commit/24d2d4d71ac94da3418063e12e4ea0a75b8e26f0"
+        }
+      ]
+    },
+    {
+      "sha": "1aa53ef3486b25fda77cb8bdb626d0399b7c9566",
+      "commit": {
+        "author": {
+          "name": "maruf",
+          "email": "maruf@cefalo.com",
+          "date": "2015-02-24T07:21:09Z"
+        },
+        "committer": {
+          "name": "maruf",
+          "email": "maruf@cefalo.com",
+          "date": "2015-02-24T07:21:09Z"
+        },
+        "message": "MKT-73: add disqus header content in klartale content file",
+        "tree": {
+          "sha": "884cfd9edd9e0484ba694dd7f105f278d561a0e3",
+          "url": "https://api.github.com/repos/Cefalo/mentor/git/trees/884cfd9edd9e0484ba694dd7f105f278d561a0e3"
+        },
+        "url": "https://api.github.com/repos/Cefalo/mentor/git/commits/1aa53ef3486b25fda77cb8bdb626d0399b7c9566",
+        "comment_count": 0
+      },
+      "url": "https://api.github.com/repos/Cefalo/mentor/commits/1aa53ef3486b25fda77cb8bdb626d0399b7c9566",
+      "html_url": "https://github.com/Cefalo/mentor/commit/1aa53ef3486b25fda77cb8bdb626d0399b7c9566",
+      "comments_url": "https://api.github.com/repos/Cefalo/mentor/commits/1aa53ef3486b25fda77cb8bdb626d0399b7c9566/comments",
+      "author": {
+        "login": "maruf-cefalo",
+        "id": 8055335,
+        "avatar_url": "https://avatars.githubusercontent.com/u/8055335?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/maruf-cefalo",
+        "html_url": "https://github.com/maruf-cefalo",
+        "followers_url": "https://api.github.com/users/maruf-cefalo/followers",
+        "following_url": "https://api.github.com/users/maruf-cefalo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/maruf-cefalo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/maruf-cefalo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/maruf-cefalo/subscriptions",
+        "organizations_url": "https://api.github.com/users/maruf-cefalo/orgs",
+        "repos_url": "https://api.github.com/users/maruf-cefalo/repos",
+        "events_url": "https://api.github.com/users/maruf-cefalo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/maruf-cefalo/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "maruf-cefalo",
+        "id": 8055335,
+        "avatar_url": "https://avatars.githubusercontent.com/u/8055335?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/maruf-cefalo",
+        "html_url": "https://github.com/maruf-cefalo",
+        "followers_url": "https://api.github.com/users/maruf-cefalo/followers",
+        "following_url": "https://api.github.com/users/maruf-cefalo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/maruf-cefalo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/maruf-cefalo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/maruf-cefalo/subscriptions",
+        "organizations_url": "https://api.github.com/users/maruf-cefalo/orgs",
+        "repos_url": "https://api.github.com/users/maruf-cefalo/repos",
+        "events_url": "https://api.github.com/users/maruf-cefalo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/maruf-cefalo/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "638ea7323356236879f4b97729d4fa8d30b35684",
+          "url": "https://api.github.com/repos/Cefalo/mentor/commits/638ea7323356236879f4b97729d4fa8d30b35684",
+          "html_url": "https://github.com/Cefalo/mentor/commit/638ea7323356236879f4b97729d4fa8d30b35684"
+        }
+      ]
+    },
+    {
+      "sha": "8d51f84156c8836112a98f4a1256177a4f26d2ea",
+      "commit": {
+        "author": {
+          "name": "maruf",
+          "email": "maruf@cefalo.com",
+          "date": "2015-02-24T10:42:10Z"
+        },
+        "committer": {
+          "name": "maruf",
+          "email": "maruf@cefalo.com",
+          "date": "2015-02-24T10:42:10Z"
+        },
+        "message": "MKT-43: add discount count on byline",
+        "tree": {
+          "sha": "9f4910c0568d208f10db419dbad21dbf3a6b89c6",
+          "url": "https://api.github.com/repos/Cefalo/mentor/git/trees/9f4910c0568d208f10db419dbad21dbf3a6b89c6"
+        },
+        "url": "https://api.github.com/repos/Cefalo/mentor/git/commits/8d51f84156c8836112a98f4a1256177a4f26d2ea",
+        "comment_count": 0
+      },
+      "url": "https://api.github.com/repos/Cefalo/mentor/commits/8d51f84156c8836112a98f4a1256177a4f26d2ea",
+      "html_url": "https://github.com/Cefalo/mentor/commit/8d51f84156c8836112a98f4a1256177a4f26d2ea",
+      "comments_url": "https://api.github.com/repos/Cefalo/mentor/commits/8d51f84156c8836112a98f4a1256177a4f26d2ea/comments",
+      "author": {
+        "login": "maruf-cefalo",
+        "id": 8055335,
+        "avatar_url": "https://avatars.githubusercontent.com/u/8055335?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/maruf-cefalo",
+        "html_url": "https://github.com/maruf-cefalo",
+        "followers_url": "https://api.github.com/users/maruf-cefalo/followers",
+        "following_url": "https://api.github.com/users/maruf-cefalo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/maruf-cefalo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/maruf-cefalo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/maruf-cefalo/subscriptions",
+        "organizations_url": "https://api.github.com/users/maruf-cefalo/orgs",
+        "repos_url": "https://api.github.com/users/maruf-cefalo/repos",
+        "events_url": "https://api.github.com/users/maruf-cefalo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/maruf-cefalo/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "maruf-cefalo",
+        "id": 8055335,
+        "avatar_url": "https://avatars.githubusercontent.com/u/8055335?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/maruf-cefalo",
+        "html_url": "https://github.com/maruf-cefalo",
+        "followers_url": "https://api.github.com/users/maruf-cefalo/followers",
+        "following_url": "https://api.github.com/users/maruf-cefalo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/maruf-cefalo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/maruf-cefalo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/maruf-cefalo/subscriptions",
+        "organizations_url": "https://api.github.com/users/maruf-cefalo/orgs",
+        "repos_url": "https://api.github.com/users/maruf-cefalo/repos",
+        "events_url": "https://api.github.com/users/maruf-cefalo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/maruf-cefalo/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "1aa53ef3486b25fda77cb8bdb626d0399b7c9566",
+          "url": "https://api.github.com/repos/Cefalo/mentor/commits/1aa53ef3486b25fda77cb8bdb626d0399b7c9566",
+          "html_url": "https://github.com/Cefalo/mentor/commit/1aa53ef3486b25fda77cb8bdb626d0399b7c9566"
+        }
+      ]
+    },
+    {
+      "sha": "736fa157282fec643ad7c85e860043860e149b4e",
+      "commit": {
+        "author": {
+          "name": "cefalo-nadim",
+          "email": "nadim.sumon@cefalo.com",
+          "date": "2015-02-24T11:00:08Z"
+        },
+        "committer": {
+          "name": "cefalo-nadim",
+          "email": "nadim.sumon@cefalo.com",
+          "date": "2015-02-24T11:00:08Z"
+        },
+        "message": "MDA-327 Paragraph styles from Saxo to polopoly",
+        "tree": {
+          "sha": "ea710a6f4a411710282397e634b902b8fca7c0fd",
+          "url": "https://api.github.com/repos/Cefalo/mentor/git/trees/ea710a6f4a411710282397e634b902b8fca7c0fd"
+        },
+        "url": "https://api.github.com/repos/Cefalo/mentor/git/commits/736fa157282fec643ad7c85e860043860e149b4e",
+        "comment_count": 0
+      },
+      "url": "https://api.github.com/repos/Cefalo/mentor/commits/736fa157282fec643ad7c85e860043860e149b4e",
+      "html_url": "https://github.com/Cefalo/mentor/commit/736fa157282fec643ad7c85e860043860e149b4e",
+      "comments_url": "https://api.github.com/repos/Cefalo/mentor/commits/736fa157282fec643ad7c85e860043860e149b4e/comments",
+      "author": null,
+      "committer": null,
+      "parents": [
+        {
+          "sha": "8d51f84156c8836112a98f4a1256177a4f26d2ea",
+          "url": "https://api.github.com/repos/Cefalo/mentor/commits/8d51f84156c8836112a98f4a1256177a4f26d2ea",
+          "html_url": "https://github.com/Cefalo/mentor/commit/8d51f84156c8836112a98f4a1256177a4f26d2ea"
+        }
+      ]
+    },
+    {
+      "sha": "e861b865a049cad789d0755c6a1c8963bef9f845",
+      "commit": {
+        "author": {
+          "name": "cefalo-nadim",
+          "email": "nadim.sumon@cefalo.com",
+          "date": "2015-02-24T11:11:20Z"
+        },
+        "committer": {
+          "name": "cefalo-nadim",
+          "email": "nadim.sumon@cefalo.com",
+          "date": "2015-02-24T11:11:20Z"
+        },
+        "message": "minor fix",
+        "tree": {
+          "sha": "afa95b44ec2d0108a43d19c500e6052b1c4c8af1",
+          "url": "https://api.github.com/repos/Cefalo/mentor/git/trees/afa95b44ec2d0108a43d19c500e6052b1c4c8af1"
+        },
+        "url": "https://api.github.com/repos/Cefalo/mentor/git/commits/e861b865a049cad789d0755c6a1c8963bef9f845",
+        "comment_count": 0
+      },
+      "url": "https://api.github.com/repos/Cefalo/mentor/commits/e861b865a049cad789d0755c6a1c8963bef9f845",
+      "html_url": "https://github.com/Cefalo/mentor/commit/e861b865a049cad789d0755c6a1c8963bef9f845",
+      "comments_url": "https://api.github.com/repos/Cefalo/mentor/commits/e861b865a049cad789d0755c6a1c8963bef9f845/comments",
+      "author": null,
+      "committer": null,
+      "parents": [
+        {
+          "sha": "736fa157282fec643ad7c85e860043860e149b4e",
+          "url": "https://api.github.com/repos/Cefalo/mentor/commits/736fa157282fec643ad7c85e860043860e149b4e",
+          "html_url": "https://github.com/Cefalo/mentor/commit/736fa157282fec643ad7c85e860043860e149b4e"
+        }
+      ]
+    },
+    {
+      "sha": "74f92ef24999f23cb09689a2b86d16cd52100a5a",
+      "commit": {
+        "author": {
+          "name": "Sultan Mahmud",
+          "email": "sultan@cefalo.com",
+          "date": "2015-02-24T11:20:54Z"
+        },
+        "committer": {
+          "name": "Sultan Mahmud",
+          "email": "sultan@cefalo.com",
+          "date": "2015-02-24T11:20:54Z"
+        },
+        "message": "MD-72: article page will be loaded from the top, no scrolling; quote carousel loaded after completion of all loading",
+        "tree": {
+          "sha": "06d0e1bee6c3b6d78bfcc50a3312a3280190e548",
+          "url": "https://api.github.com/repos/Cefalo/mentor/git/trees/06d0e1bee6c3b6d78bfcc50a3312a3280190e548"
+        },
+        "url": "https://api.github.com/repos/Cefalo/mentor/git/commits/74f92ef24999f23cb09689a2b86d16cd52100a5a",
+        "comment_count": 0
+      },
+      "url": "https://api.github.com/repos/Cefalo/mentor/commits/74f92ef24999f23cb09689a2b86d16cd52100a5a",
+      "html_url": "https://github.com/Cefalo/mentor/commit/74f92ef24999f23cb09689a2b86d16cd52100a5a",
+      "comments_url": "https://api.github.com/repos/Cefalo/mentor/commits/74f92ef24999f23cb09689a2b86d16cd52100a5a/comments",
+      "author": {
+        "login": "sultanmahmud0",
+        "id": 7322604,
+        "avatar_url": "https://avatars.githubusercontent.com/u/7322604?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/sultanmahmud0",
+        "html_url": "https://github.com/sultanmahmud0",
+        "followers_url": "https://api.github.com/users/sultanmahmud0/followers",
+        "following_url": "https://api.github.com/users/sultanmahmud0/following{/other_user}",
+        "gists_url": "https://api.github.com/users/sultanmahmud0/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/sultanmahmud0/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/sultanmahmud0/subscriptions",
+        "organizations_url": "https://api.github.com/users/sultanmahmud0/orgs",
+        "repos_url": "https://api.github.com/users/sultanmahmud0/repos",
+        "events_url": "https://api.github.com/users/sultanmahmud0/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/sultanmahmud0/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "sultanmahmud0",
+        "id": 7322604,
+        "avatar_url": "https://avatars.githubusercontent.com/u/7322604?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/sultanmahmud0",
+        "html_url": "https://github.com/sultanmahmud0",
+        "followers_url": "https://api.github.com/users/sultanmahmud0/followers",
+        "following_url": "https://api.github.com/users/sultanmahmud0/following{/other_user}",
+        "gists_url": "https://api.github.com/users/sultanmahmud0/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/sultanmahmud0/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/sultanmahmud0/subscriptions",
+        "organizations_url": "https://api.github.com/users/sultanmahmud0/orgs",
+        "repos_url": "https://api.github.com/users/sultanmahmud0/repos",
+        "events_url": "https://api.github.com/users/sultanmahmud0/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/sultanmahmud0/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "e861b865a049cad789d0755c6a1c8963bef9f845",
+          "url": "https://api.github.com/repos/Cefalo/mentor/commits/e861b865a049cad789d0755c6a1c8963bef9f845",
+          "html_url": "https://github.com/Cefalo/mentor/commit/e861b865a049cad789d0755c6a1c8963bef9f845"
+        }
+      ]
+    },
+    {
+      "sha": "0cf7c62355032fdd14e3bd767ad9785aade29f60",
+      "commit": {
+        "author": {
+          "name": "maruf",
+          "email": "maruf@cefalo.com",
+          "date": "2015-02-25T05:14:47Z"
+        },
+        "committer": {
+          "name": "maruf",
+          "email": "maruf@cefalo.com",
+          "date": "2015-02-25T05:14:47Z"
+        },
+        "message": "MKT-8, MKT-9, MKT-10: navigation code refactor, no change in behavior or functionality",
+        "tree": {
+          "sha": "244420303971ad657cc317a17ae364d3b5e02783",
+          "url": "https://api.github.com/repos/Cefalo/mentor/git/trees/244420303971ad657cc317a17ae364d3b5e02783"
+        },
+        "url": "https://api.github.com/repos/Cefalo/mentor/git/commits/0cf7c62355032fdd14e3bd767ad9785aade29f60",
+        "comment_count": 0
+      },
+      "url": "https://api.github.com/repos/Cefalo/mentor/commits/0cf7c62355032fdd14e3bd767ad9785aade29f60",
+      "html_url": "https://github.com/Cefalo/mentor/commit/0cf7c62355032fdd14e3bd767ad9785aade29f60",
+      "comments_url": "https://api.github.com/repos/Cefalo/mentor/commits/0cf7c62355032fdd14e3bd767ad9785aade29f60/comments",
+      "author": {
+        "login": "maruf-cefalo",
+        "id": 8055335,
+        "avatar_url": "https://avatars.githubusercontent.com/u/8055335?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/maruf-cefalo",
+        "html_url": "https://github.com/maruf-cefalo",
+        "followers_url": "https://api.github.com/users/maruf-cefalo/followers",
+        "following_url": "https://api.github.com/users/maruf-cefalo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/maruf-cefalo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/maruf-cefalo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/maruf-cefalo/subscriptions",
+        "organizations_url": "https://api.github.com/users/maruf-cefalo/orgs",
+        "repos_url": "https://api.github.com/users/maruf-cefalo/repos",
+        "events_url": "https://api.github.com/users/maruf-cefalo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/maruf-cefalo/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "maruf-cefalo",
+        "id": 8055335,
+        "avatar_url": "https://avatars.githubusercontent.com/u/8055335?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/maruf-cefalo",
+        "html_url": "https://github.com/maruf-cefalo",
+        "followers_url": "https://api.github.com/users/maruf-cefalo/followers",
+        "following_url": "https://api.github.com/users/maruf-cefalo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/maruf-cefalo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/maruf-cefalo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/maruf-cefalo/subscriptions",
+        "organizations_url": "https://api.github.com/users/maruf-cefalo/orgs",
+        "repos_url": "https://api.github.com/users/maruf-cefalo/repos",
+        "events_url": "https://api.github.com/users/maruf-cefalo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/maruf-cefalo/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "74f92ef24999f23cb09689a2b86d16cd52100a5a",
+          "url": "https://api.github.com/repos/Cefalo/mentor/commits/74f92ef24999f23cb09689a2b86d16cd52100a5a",
+          "html_url": "https://github.com/Cefalo/mentor/commit/74f92ef24999f23cb09689a2b86d16cd52100a5a"
+        }
+      ]
+    },
+    {
+      "sha": "e0559ecf9ec33bc160b11dd6d601e1b57d0785bd",
+      "commit": {
+        "author": {
+          "name": "Sultan Mahmud",
+          "email": "sultan@cefalo.com",
+          "date": "2015-02-25T06:06:29Z"
+        },
+        "committer": {
+          "name": "Sultan Mahmud",
+          "email": "sultan@cefalo.com",
+          "date": "2015-02-25T06:06:29Z"
+        },
+        "message": "MKT-57,MKT-41: top story in klartale with new design",
+        "tree": {
+          "sha": "3343e4688d21309b1b80f3c732c101ba9eece68b",
+          "url": "https://api.github.com/repos/Cefalo/mentor/git/trees/3343e4688d21309b1b80f3c732c101ba9eece68b"
+        },
+        "url": "https://api.github.com/repos/Cefalo/mentor/git/commits/e0559ecf9ec33bc160b11dd6d601e1b57d0785bd",
+        "comment_count": 0
+      },
+      "url": "https://api.github.com/repos/Cefalo/mentor/commits/e0559ecf9ec33bc160b11dd6d601e1b57d0785bd",
+      "html_url": "https://github.com/Cefalo/mentor/commit/e0559ecf9ec33bc160b11dd6d601e1b57d0785bd",
+      "comments_url": "https://api.github.com/repos/Cefalo/mentor/commits/e0559ecf9ec33bc160b11dd6d601e1b57d0785bd/comments",
+      "author": {
+        "login": "sultanmahmud0",
+        "id": 7322604,
+        "avatar_url": "https://avatars.githubusercontent.com/u/7322604?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/sultanmahmud0",
+        "html_url": "https://github.com/sultanmahmud0",
+        "followers_url": "https://api.github.com/users/sultanmahmud0/followers",
+        "following_url": "https://api.github.com/users/sultanmahmud0/following{/other_user}",
+        "gists_url": "https://api.github.com/users/sultanmahmud0/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/sultanmahmud0/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/sultanmahmud0/subscriptions",
+        "organizations_url": "https://api.github.com/users/sultanmahmud0/orgs",
+        "repos_url": "https://api.github.com/users/sultanmahmud0/repos",
+        "events_url": "https://api.github.com/users/sultanmahmud0/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/sultanmahmud0/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "sultanmahmud0",
+        "id": 7322604,
+        "avatar_url": "https://avatars.githubusercontent.com/u/7322604?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/sultanmahmud0",
+        "html_url": "https://github.com/sultanmahmud0",
+        "followers_url": "https://api.github.com/users/sultanmahmud0/followers",
+        "following_url": "https://api.github.com/users/sultanmahmud0/following{/other_user}",
+        "gists_url": "https://api.github.com/users/sultanmahmud0/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/sultanmahmud0/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/sultanmahmud0/subscriptions",
+        "organizations_url": "https://api.github.com/users/sultanmahmud0/orgs",
+        "repos_url": "https://api.github.com/users/sultanmahmud0/repos",
+        "events_url": "https://api.github.com/users/sultanmahmud0/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/sultanmahmud0/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "0cf7c62355032fdd14e3bd767ad9785aade29f60",
+          "url": "https://api.github.com/repos/Cefalo/mentor/commits/0cf7c62355032fdd14e3bd767ad9785aade29f60",
+          "html_url": "https://github.com/Cefalo/mentor/commit/0cf7c62355032fdd14e3bd767ad9785aade29f60"
+        }
+      ]
+    },
+    {
+      "sha": "3632eeac905689f3e129c62c371cea94847782b7",
+      "commit": {
+        "author": {
+          "name": "cefalo-nadim",
+          "email": "nadim.sumon@cefalo.com",
+          "date": "2015-02-25T07:40:36Z"
+        },
+        "committer": {
+          "name": "cefalo-nadim",
+          "email": "nadim.sumon@cefalo.com",
+          "date": "2015-02-25T07:40:36Z"
+        },
+        "message": "MDA-310 Improve static page for ad related information",
+        "tree": {
+          "sha": "c8b16defa2d85dd23b8228007c1db35ef96e044c",
+          "url": "https://api.github.com/repos/Cefalo/mentor/git/trees/c8b16defa2d85dd23b8228007c1db35ef96e044c"
+        },
+        "url": "https://api.github.com/repos/Cefalo/mentor/git/commits/3632eeac905689f3e129c62c371cea94847782b7",
+        "comment_count": 0
+      },
+      "url": "https://api.github.com/repos/Cefalo/mentor/commits/3632eeac905689f3e129c62c371cea94847782b7",
+      "html_url": "https://github.com/Cefalo/mentor/commit/3632eeac905689f3e129c62c371cea94847782b7",
+      "comments_url": "https://api.github.com/repos/Cefalo/mentor/commits/3632eeac905689f3e129c62c371cea94847782b7/comments",
+      "author": null,
+      "committer": null,
+      "parents": [
+        {
+          "sha": "e0559ecf9ec33bc160b11dd6d601e1b57d0785bd",
+          "url": "https://api.github.com/repos/Cefalo/mentor/commits/e0559ecf9ec33bc160b11dd6d601e1b57d0785bd",
+          "html_url": "https://github.com/Cefalo/mentor/commit/e0559ecf9ec33bc160b11dd6d601e1b57d0785bd"
+        }
+      ]
+    },
+    {
+      "sha": "aff3b1ad22e7a713616b4ca7221acbc65ea4878b",
+      "commit": {
+        "author": {
+          "name": "Humayun",
+          "email": "humayun@cefalo.com",
+          "date": "2015-02-25T08:12:28Z"
+        },
+        "committer": {
+          "name": "Humayun",
+          "email": "humayun@cefalo.com",
+          "date": "2015-02-25T08:12:28Z"
+        },
+        "message": "MKT : rename a user",
+        "tree": {
+          "sha": "02591327a0d39590879d4b27cab26d80ae6441a9",
+          "url": "https://api.github.com/repos/Cefalo/mentor/git/trees/02591327a0d39590879d4b27cab26d80ae6441a9"
+        },
+        "url": "https://api.github.com/repos/Cefalo/mentor/git/commits/aff3b1ad22e7a713616b4ca7221acbc65ea4878b",
+        "comment_count": 0
+      },
+      "url": "https://api.github.com/repos/Cefalo/mentor/commits/aff3b1ad22e7a713616b4ca7221acbc65ea4878b",
+      "html_url": "https://github.com/Cefalo/mentor/commit/aff3b1ad22e7a713616b4ca7221acbc65ea4878b",
+      "comments_url": "https://api.github.com/repos/Cefalo/mentor/commits/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/comments",
+      "author": {
+        "login": "cefalo-humayun",
+        "id": 2891382,
+        "avatar_url": "https://avatars.githubusercontent.com/u/2891382?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/cefalo-humayun",
+        "html_url": "https://github.com/cefalo-humayun",
+        "followers_url": "https://api.github.com/users/cefalo-humayun/followers",
+        "following_url": "https://api.github.com/users/cefalo-humayun/following{/other_user}",
+        "gists_url": "https://api.github.com/users/cefalo-humayun/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/cefalo-humayun/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/cefalo-humayun/subscriptions",
+        "organizations_url": "https://api.github.com/users/cefalo-humayun/orgs",
+        "repos_url": "https://api.github.com/users/cefalo-humayun/repos",
+        "events_url": "https://api.github.com/users/cefalo-humayun/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/cefalo-humayun/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "cefalo-humayun",
+        "id": 2891382,
+        "avatar_url": "https://avatars.githubusercontent.com/u/2891382?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/cefalo-humayun",
+        "html_url": "https://github.com/cefalo-humayun",
+        "followers_url": "https://api.github.com/users/cefalo-humayun/followers",
+        "following_url": "https://api.github.com/users/cefalo-humayun/following{/other_user}",
+        "gists_url": "https://api.github.com/users/cefalo-humayun/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/cefalo-humayun/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/cefalo-humayun/subscriptions",
+        "organizations_url": "https://api.github.com/users/cefalo-humayun/orgs",
+        "repos_url": "https://api.github.com/users/cefalo-humayun/repos",
+        "events_url": "https://api.github.com/users/cefalo-humayun/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/cefalo-humayun/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "3632eeac905689f3e129c62c371cea94847782b7",
+          "url": "https://api.github.com/repos/Cefalo/mentor/commits/3632eeac905689f3e129c62c371cea94847782b7",
+          "html_url": "https://github.com/Cefalo/mentor/commit/3632eeac905689f3e129c62c371cea94847782b7"
+        }
+      ]
+    }
+  ],
+  "files": [
+    {
+      "sha": "ec09455971232057a914ba82eb88c75f032b7eee",
+      "filename": "content/mentormedier-content/src/main/content/content/dagsavisen/xml-content/dagsavisen-annonser-page.xml",
+      "status": "modified",
+      "additions": 6,
+      "deletions": 8,
+      "changes": 14,
+      "blob_url": "https://github.com/Cefalo/mentor/blob/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/content/mentormedier-content/src/main/content/content/dagsavisen/xml-content/dagsavisen-annonser-page.xml",
+      "raw_url": "https://github.com/Cefalo/mentor/raw/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/content/mentormedier-content/src/main/content/content/dagsavisen/xml-content/dagsavisen-annonser-page.xml",
+      "contents_url": "https://api.github.com/repos/Cefalo/mentor/contents/content/mentormedier-content/src/main/content/content/dagsavisen/xml-content/dagsavisen-annonser-page.xml?ref=aff3b1ad22e7a713616b4ca7221acbc65ea4878b",
+      "patch": "@@ -67,20 +67,18 @@\n \t\t\t        <div class=\"col-sm-12\">\n                         <div class=\"inner\" style=\"\">\n \n-                        <p><a href=\"http://admin.asite.no?script=frmw.script.get_file&amp;&amp;file=689\"><br></a></p>\n                         <h1>Annonsere i Dagsavisen<br></h1>\n-                        <h2>Annons�r i Dagsavisen og treff et kj�pesterkt publikum! <br>Dagsavisen p� papir og nett har en dobbeldekning p� 10 %!</h2>\n+                        <h2>Annons�r i Dagsavisen og treff et kj�pesterkt publikum! <br>Dagsavisen p� papir og nett har en dobbeldekning p� kun 10 %!</h2>\n                         <h1>Annonser p� papir<br></h1>\n-                        <p><strong>Nesten 100.000 mennesker leser Dagsavisen og Dagsavisen Fremtiden hver dag.</strong> T�r du g� glipp av denne kj�pesterke m�lgruppen? Leserne av Dagsavisen.no er h�yt utdannede mennesker med god inntekt, med hovedvekt fra Oslo og Akershus. Over halvparten av v�re lesere er kvinner! V�re lesere interesserer seg bla for reiser, �konomi kultur, interi�r, bil, mat, milj�,livsstil, friluftsliv/sport etc.</p>\n+                        <p><strong>Nesten 100.000 mennesker leser Dagsavisen, Dagsavisen Fremtiden og Dagsavisen Moss Dagblad hver dag.</strong> T�r du g� glipp av denne kj�pesterke m�lgruppen? Leserne av Dagsavisen er h�yt utdannede mennesker med god inntekt, med hovedvekt fra Oslo og Akershus. Halvparten av v�re lesere er kvinner. V�re lesere interesserer seg bla for reiser, �konomi kultur, interi�r, bil, mat, milj�, livsstil, friluftsliv/sport etc. V�re lesere er voksne og kj�pesterke!</p>\n                         <h1>Annonser p� nett<br></h1>\n-                        <p><strong>62.000 personer leser Dagsavisen.no hver dag.</strong> T�r du g� glipp av denne kj�pesterke m�lgruppen? Leserne av Dagsavisen.no er h�yt utdannede mennesker med god inntekt, med hovedvekt i storbyene i S�r-Norge og, ikke minst, Oslo-omr�det. V�re lesere interesserer seg bla for reiser, �konomi, kultur, interi�r, bil, mat, milj� livsstil, frluftsliv/sport etc.</p>\n-                        <p><a href=\"http://admin.asite.no?script=frmw.script.get_file&amp;&amp;file=625\"></a></p>\n-                        <p><strong><a href=\"http://admin.asite.no?script=frmw.script.get_file&amp;&amp;file=688\" target=\"_self\"></a><a href=\"http://admin.asite.no?script=frmw.script.get_file&amp;&amp;file=691\">Klikk her</a> for � annonsere i papiravisen 2015.<br><br></strong><strong><a href=\"http://admin.asite.no?script=frmw.script.get_file&amp;&amp;file=689\">Klikk her</a> for � annonsere i nettavisen 2014.</strong><strong> </strong></p>\n-                        <p><strong><span style=\"font-weight: normal; \"><strong><a href=\"http://admin.asite.no?script=frmw.script.get_file&amp;&amp;file=666\"></a></strong></span></strong></p>\n+                        <p><strong>50.000 personer leser Dagsavisen.no hver dag.</strong> T�r du g� glipp av denne kj�pesterke m�lgruppen? Leserne av Dagsavisen.no er h�yt utdannede mennesker med god inntekt, med hovedvekt i storbyene i S�r-Norge og, ikke minst, Oslo-omr�det. V�re lesere interesserer seg bla for reiser, �konomi, kultur, interi�r, bil, mat, milj� livsstil, frluftsliv/sport etc.</p>\n+                        <p><strong><a href=\"http://admin.asite.no/?script=frmw.script.get_file&&file=688\">Klikk her</a>, denne pdf?en m� flyttes til et annet omr�de) for � annonsere i papiravisen 2015.</strong></p>\n+                        <p><strong><a href=\"http://admin.asite.no/?script=frmw.script.get_file&&file=689\" target=\"_self\">Klikk her</a>, <strong>Denne pdf?en m� flyttes til et annet omr�de) for � annonsere i nettavisen 2015.</strong></p>\n                         <h2>Last ned fargeprofil for Dagsavisen</h2>\n                         <p><a href=\"http://www.vlguiden.no/diverse/ISOnewspaper26v4.icc.zip\">ISOnewspaper26v4.icc.zip</a></p>\n                         <h2>Noe du vil kj�pe eller selge?</h2>\n-                        <p>Ta kontakt med annonsebestilling@dagsavisen.no</p>\n+                        <p>Ta kontakt med <a href=\"mailto:annonsebestilling@dagsavisen.no\">annonsebestilling@dagsavisen.no</a></p>\n                         <p>&nbsp;</p>\n                         <p>&nbsp;</p>\n                         <p>&nbsp;</p>"
+    },
+    {
+      "sha": "4230e6a89950d0a7234fce72801670f53529a792",
+      "filename": "content/mentormedier-content/src/main/content/content/klartale/lelement/disqusHeader.xml",
+      "status": "added",
+      "additions": 37,
+      "deletions": 0,
+      "changes": 37,
+      "blob_url": "https://github.com/Cefalo/mentor/blob/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/content/mentormedier-content/src/main/content/content/klartale/lelement/disqusHeader.xml",
+      "raw_url": "https://github.com/Cefalo/mentor/raw/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/content/mentormedier-content/src/main/content/content/klartale/lelement/disqusHeader.xml",
+      "contents_url": "https://api.github.com/repos/Cefalo/mentor/contents/content/mentormedier-content/src/main/content/content/klartale/lelement/disqusHeader.xml?ref=aff3b1ad22e7a713616b4ca7221acbc65ea4878b",
+      "patch": "@@ -0,0 +1,37 @@\n+<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n+<batch xmlns=\"http://www.polopoly.com/polopoly/cm/xmlio\">\n+  <content>\n+    <metadata>\n+      <contentid>\n+        <major>Article</major>\n+        <externalid>klartaleDisqusHeader</externalid>\n+      </contentid>\n+      <input-template>\n+        <major>InputTemplate</major>\n+        <externalid>mentor.rich-text-element</externalid>\n+      </input-template>\n+      <security-parent>\n+        <major>Department</major>\n+        <externalid>klartale.no</externalid>\n+      </security-parent>\n+    </metadata>\n+    <component group=\"polopoly.Content\" name=\"name\">Disqus Header</component>\n+    <component group=\"body\" name=\"value\"><![CDATA[\n+\n+<p style=\"font-size: 13px;\"><b style=\"color: rgb(0, 0, 0); font-family: Verdana, Arial, Helvetica; line-height: normal;\">Om kommentarer på klartale.no</b></p>\n+\n+<p style=\"font-size: 13px;\"><span style=\"color: rgb(0, 0, 0); font-family: Verdana, Arial, Helvetica; line-height: normal;\">Klartale.no inviterer deg til å fortelle mer om saker og om dine meninger om saker i nettavisen. Men vi ønsker en god debatt. Derfor vil vi ikke ha trusler eller hatske meldinger på klartale.no. Vi ber også alle om å svare hverandre på en saklig måte i kommentar-feltene. Husk at dine kommentarer også leses av mange! Vi ønsker at du skriver hele navnet ditt. Det gjør det også mer interessant for andre lesere.</span><br style=\"color: rgb(0, 0, 0); font-family: Verdana, Arial, Helvetica; line-height: normal;\" />\n+<span style=\"color: rgb(0, 0, 0); font-family: Verdana, Arial, Helvetica; line-height: normal;\">Hilsen redaksjonssjef Gøril Huse</span><br style=\"color: rgb(0, 0, 0); font-family: Verdana, Arial, Helvetica; line-height: normal;\" />\n+<br style=\"color: rgb(0, 0, 0); font-family: Verdana, Arial, Helvetica; line-height: normal;\" />\n+<span style=\"color: rgb(0, 0, 0); font-family: Verdana, Arial, Helvetica; line-height: normal;\">Redaksjonen står fritt til å redigere i kommentar-innlegg dersom det er nødvendig. Kommentarer kan også komme på trykk i papiravisen Klar Tale.</span></p>\n+\n+]]>\n+    </component>\n+    <contentref group=\"polopoly.Content\" name=\"inputTemplateId\">\n+      <contentid>\n+        <major>InputTemplate</major>\n+        <externalid>mentor.rich-text-element</externalid>\n+      </contentid>\n+    </contentref>\n+  </content>\n+</batch>"
+    },
+    {
+      "sha": "9d209b57fc4f5d988e61ca2f7c22835966cba222",
+      "filename": "content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-abonnement.content",
+      "status": "modified",
+      "additions": 2,
+      "deletions": 1,
+      "changes": 3,
+      "blob_url": "https://github.com/Cefalo/mentor/blob/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-abonnement.content",
+      "raw_url": "https://github.com/Cefalo/mentor/raw/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-abonnement.content",
+      "contents_url": "https://api.github.com/repos/Cefalo/mentor/contents/content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-abonnement.content?ref=aff3b1ad22e7a713616b4ca7221acbc65ea4878b",
+      "patch": "@@ -5,6 +5,7 @@ securityparent:klartale.no\n name:Abonnement\n component:pathsegment:value:abonnement\n component:rightMenu:value:true\n-component:mobileMenu:value:false\n+component:mobileMenu:value:true\n+#component:hideOnFrontPage:value:false\n component:pageLayout/selected/mainColumnTeaserLayout:value:sectionpageteaserlayout\n ref:pageLayout:selected:klartale.DefaultPageLayout\n\\ No newline at end of file"
+    },
+    {
+      "sha": "26278cc76db04489f958a2277e46956fbb64cc76",
+      "filename": "content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-bilder.content",
+      "status": "modified",
+      "additions": 2,
+      "deletions": 1,
+      "changes": 3,
+      "blob_url": "https://github.com/Cefalo/mentor/blob/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-bilder.content",
+      "raw_url": "https://github.com/Cefalo/mentor/raw/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-bilder.content",
+      "contents_url": "https://api.github.com/repos/Cefalo/mentor/contents/content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-bilder.content?ref=aff3b1ad22e7a713616b4ca7221acbc65ea4878b",
+      "patch": "@@ -4,8 +4,9 @@ inputtemplate:p.siteengine.Page\n securityparent:klartale.no\n name:Bilder\n component:pathsegment:value:bilder\n-component:rightMenu:value:false\n+component:rightMenu:value:true\n component:mobileMenu:value:false\n+#component:hideOnFrontPage:value:false\n component:pageLayout/selected/mainColumnTeaserLayout:value:sectionpageteaserlayout\n component:pageLayout/selected/sectionColorCode:value:cat-7\n ref:pageLayout:selected:klartale.DefaultPageLayout\n\\ No newline at end of file"
+    },
+    {
+      "sha": "eded04c64b17c17284ca085700445bf1d850359e",
+      "filename": "content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-dineInnstillinger.content",
+      "status": "modified",
+      "additions": 2,
+      "deletions": 1,
+      "changes": 3,
+      "blob_url": "https://github.com/Cefalo/mentor/blob/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-dineInnstillinger.content",
+      "raw_url": "https://github.com/Cefalo/mentor/raw/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-dineInnstillinger.content",
+      "contents_url": "https://api.github.com/repos/Cefalo/mentor/contents/content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-dineInnstillinger.content?ref=aff3b1ad22e7a713616b4ca7221acbc65ea4878b",
+      "patch": "@@ -5,6 +5,7 @@ securityparent:klartale.no\n name:Dine innstillinger\n component:pathsegment:value:dine-innstillinger\n component:rightMenu:value:true\n-component:mobileMenu:value:false\n+component:mobileMenu:value:true\n+#component:hideOnFrontPage:value:false\n component:pageLayout/selected/mainColumnTeaserLayout:value:sectionpageteaserlayout\n ref:pageLayout:selected:klartale.DefaultPageLayout\n\\ No newline at end of file"
+    },
+    {
+      "sha": "08ab9ada906cbc4dc1eb2dee10a8d68fd2fca1b6",
+      "filename": "content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-heltNils.content",
+      "status": "modified",
+      "additions": 2,
+      "deletions": 1,
+      "changes": 3,
+      "blob_url": "https://github.com/Cefalo/mentor/blob/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-heltNils.content",
+      "raw_url": "https://github.com/Cefalo/mentor/raw/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-heltNils.content",
+      "contents_url": "https://api.github.com/repos/Cefalo/mentor/contents/content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-heltNils.content?ref=aff3b1ad22e7a713616b4ca7221acbc65ea4878b",
+      "patch": "@@ -4,7 +4,8 @@ inputtemplate:p.siteengine.Page\n securityparent:klartale.no\n name:Helt Nils\n component:pathsegment:value:heltnils\n-component:hidepage:value:true\n+component:rightMenu:value:false\n+component:mobileMenu:value:false\n component:pageLayout/selected/mainColumnTeaserLayout:value:sectionpageteaserlayout\n ref:pageLayout:selected:klartale.DefaultPageLayout\n component:pageLayout/selected/sectionColorCode:value:cat-4\n\\ No newline at end of file"
+    },
+    {
+      "sha": "4f3f69ecc834ae5f3c9fd87375307009ded0b77a",
+      "filename": "content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-klartOgKort.content",
+      "status": "modified",
+      "additions": 1,
+      "deletions": 0,
+      "changes": 1,
+      "blob_url": "https://github.com/Cefalo/mentor/blob/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-klartOgKort.content",
+      "raw_url": "https://github.com/Cefalo/mentor/raw/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-klartOgKort.content",
+      "contents_url": "https://api.github.com/repos/Cefalo/mentor/contents/content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-klartOgKort.content?ref=aff3b1ad22e7a713616b4ca7221acbc65ea4878b",
+      "patch": "@@ -6,5 +6,6 @@ name:Klart og Kort\n component:pathsegment:value:klartOgKort\n component:rightMenu:value:false\n component:mobileMenu:value:true\n+#component:hideOnFrontPage:value:true\n component:pageLayout/selected/mainColumnTeaserLayout:value:sectionpageteaserlayout\n ref:pageLayout:selected:klartale.DefaultPageLayout\n\\ No newline at end of file"
+    },
+    {
+      "sha": "f8e2eaa6e94b4563a687e93eb1ebcc75262d7dd1",
+      "filename": "content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-kontakt.content",
+      "status": "modified",
+      "additions": 2,
+      "deletions": 1,
+      "changes": 3,
+      "blob_url": "https://github.com/Cefalo/mentor/blob/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-kontakt.content",
+      "raw_url": "https://github.com/Cefalo/mentor/raw/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-kontakt.content",
+      "contents_url": "https://api.github.com/repos/Cefalo/mentor/contents/content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-kontakt.content?ref=aff3b1ad22e7a713616b4ca7221acbc65ea4878b",
+      "patch": "@@ -5,7 +5,8 @@ securityparent:klartale.no\n name:Kontakt\n component:pathsegment:value:kontakt\n component:rightMenu:value:true\n-component:mobileMenu:value:false\n+component:mobileMenu:value:true\n+#component:hideOnFrontPage:value:false\n component:pageLayout/selected/mainColumnTeaserLayout:value:staticPageLayout\n ref:pageLayout:selected:klartale.DefaultPageLayout\n list:staticContentList:klartaleKontactContent\n\\ No newline at end of file"
+    },
+    {
+      "sha": "30d0d1079cfaaf19f969bf4cc10013bece59dc6f",
+      "filename": "content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-kultur.content",
+      "status": "modified",
+      "additions": 2,
+      "deletions": 1,
+      "changes": 3,
+      "blob_url": "https://github.com/Cefalo/mentor/blob/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-kultur.content",
+      "raw_url": "https://github.com/Cefalo/mentor/raw/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-kultur.content",
+      "contents_url": "https://api.github.com/repos/Cefalo/mentor/contents/content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-kultur.content?ref=aff3b1ad22e7a713616b4ca7221acbc65ea4878b",
+      "patch": "@@ -4,8 +4,9 @@ inputtemplate:p.siteengine.Page\n securityparent:klartale.no\n name:Kultur\n component:pathsegment:value:kultur\n-component:rightMenu:value:false\n+component:rightMenu:value:true\n component:mobileMenu:value:false\n+#component:hideOnFrontPage:value:false\n component:pageLayout/selected/mainColumnTeaserLayout:value:sectionpageteaserlayout\n component:pageLayout/selected/sectionColorCode:value:cat-4\n ref:pageLayout:selected:klartale.DefaultPageLayout\n\\ No newline at end of file"
+    },
+    {
+      "sha": "08d61a14ec289c1111b843c3af6d1543c63b8e81",
+      "filename": "content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-mening.content",
+      "status": "modified",
+      "additions": 2,
+      "deletions": 1,
+      "changes": 3,
+      "blob_url": "https://github.com/Cefalo/mentor/blob/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-mening.content",
+      "raw_url": "https://github.com/Cefalo/mentor/raw/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-mening.content",
+      "contents_url": "https://api.github.com/repos/Cefalo/mentor/contents/content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-mening.content?ref=aff3b1ad22e7a713616b4ca7221acbc65ea4878b",
+      "patch": "@@ -4,8 +4,9 @@ inputtemplate:p.siteengine.Page\n securityparent:klartale.no\n name:Mening\n component:pathsegment:value:mening\n-component:rightMenu:value:false\n+component:rightMenu:value:true\n component:mobileMenu:value:false\n+#component:hideOnFrontPage:value:false\n component:pageLayout/selected/mainColumnTeaserLayout:value:sectionpageteaserlayout\n component:pageLayout/selected/sectionColorCode:value:cat-6\n ref:pageLayout:selected:klartale.DefaultPageLayout\n\\ No newline at end of file"
+    },
+    {
+      "sha": "e39ccf44d39d469276e093c9ecc33b51422bf645",
+      "filename": "content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-norge.content",
+      "status": "modified",
+      "additions": 2,
+      "deletions": 1,
+      "changes": 3,
+      "blob_url": "https://github.com/Cefalo/mentor/blob/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-norge.content",
+      "raw_url": "https://github.com/Cefalo/mentor/raw/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-norge.content",
+      "contents_url": "https://api.github.com/repos/Cefalo/mentor/contents/content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-norge.content?ref=aff3b1ad22e7a713616b4ca7221acbc65ea4878b",
+      "patch": "@@ -4,8 +4,9 @@ inputtemplate:p.siteengine.Page\n securityparent:klartale.no\n name:Norge\n component:pathsegment:value:norge\n-component:rightMenu:value:false\n+component:rightMenu:value:true\n component:mobileMenu:value:false\n+#component:hideOnFrontPage:value:false\n component:pageLayout/selected/mainColumnTeaserLayout:value:sectionpageteaserlayout\n component:pageLayout/selected/sectionColorCode:value:cat-1\n ref:pageLayout:selected:klartale.DefaultPageLayout\n\\ No newline at end of file"
+    },
+    {
+      "sha": "c9c054c840c55f6df2d546f4719e7891d2756213",
+      "filename": "content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-nyheterIBilder.content",
+      "status": "modified",
+      "additions": 1,
+      "deletions": 0,
+      "changes": 1,
+      "blob_url": "https://github.com/Cefalo/mentor/blob/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-nyheterIBilder.content",
+      "raw_url": "https://github.com/Cefalo/mentor/raw/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-nyheterIBilder.content",
+      "contents_url": "https://api.github.com/repos/Cefalo/mentor/contents/content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-nyheterIBilder.content?ref=aff3b1ad22e7a713616b4ca7221acbc65ea4878b",
+      "patch": "@@ -6,5 +6,6 @@ name:Nyheter i bilder\n component:pathsegment:value:nyheterIBilder\n component:rightMenu:value:false\n component:mobileMenu:value:true\n+#component:hideOnFrontPage:value:true\n component:pageLayout/selected/mainColumnTeaserLayout:value:sectionpageteaserlayout\n ref:pageLayout:selected:klartale.DefaultPageLayout\n\\ No newline at end of file"
+    },
+    {
+      "sha": "4c5a740d1bf76c6dee10d039bb3fbf75729c8bd0",
+      "filename": "content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-omOss.content",
+      "status": "modified",
+      "additions": 2,
+      "deletions": 1,
+      "changes": 3,
+      "blob_url": "https://github.com/Cefalo/mentor/blob/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-omOss.content",
+      "raw_url": "https://github.com/Cefalo/mentor/raw/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-omOss.content",
+      "contents_url": "https://api.github.com/repos/Cefalo/mentor/contents/content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-omOss.content?ref=aff3b1ad22e7a713616b4ca7221acbc65ea4878b",
+      "patch": "@@ -5,7 +5,8 @@ securityparent:klartale.no\n name:Om oss\n component:pathsegment:value:om-oss\n component:rightMenu:value:true\n-component:mobileMenu:value:false\n+component:mobileMenu:value:true\n+#component:hideOnFrontPage:value:false\n component:pageLayout/selected/mainColumnTeaserLayout:value:staticPageLayout\n ref:pageLayout:selected:klartale.DefaultPageLayout\n list:staticContentList:klartaleAboutUsContent_NO"
+    },
+    {
+      "sha": "b78a87d506e1f76960b989b27a168045275a90ef",
+      "filename": "content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-sok.content",
+      "status": "modified",
+      "additions": 2,
+      "deletions": 1,
+      "changes": 3,
+      "blob_url": "https://github.com/Cefalo/mentor/blob/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-sok.content",
+      "raw_url": "https://github.com/Cefalo/mentor/raw/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-sok.content",
+      "contents_url": "https://api.github.com/repos/Cefalo/mentor/contents/content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-sok.content?ref=aff3b1ad22e7a713616b4ca7221acbc65ea4878b",
+      "patch": "@@ -5,6 +5,7 @@ securityparent:klartale.no\n name:Søk\n component:pathsegment:value:sok\n component:rightMenu:value:true\n-component:mobileMenu:value:false\n+component:mobileMenu:value:true\n+#component:hideOnFrontPage:value:false\n component:pageLayout/selected/mainColumnTeaserLayout:value:sectionpageteaserlayout\n ref:pageLayout:selected:klartale.DefaultPageLayout\n\\ No newline at end of file"
+    },
+    {
+      "sha": "7e32252eed323691091eedde1441cd46882f8d2c",
+      "filename": "content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-sport.content",
+      "status": "modified",
+      "additions": 2,
+      "deletions": 1,
+      "changes": 3,
+      "blob_url": "https://github.com/Cefalo/mentor/blob/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-sport.content",
+      "raw_url": "https://github.com/Cefalo/mentor/raw/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-sport.content",
+      "contents_url": "https://api.github.com/repos/Cefalo/mentor/contents/content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-sport.content?ref=aff3b1ad22e7a713616b4ca7221acbc65ea4878b",
+      "patch": "@@ -4,8 +4,9 @@ inputtemplate:p.siteengine.Page\n securityparent:klartale.no\n name:Sport\n component:pathsegment:value:sport\n-component:rightMenu:value:false\n+component:rightMenu:value:true\n component:mobileMenu:value:false\n+#component:hideOnFrontPage:value:false\n component:pageLayout/selected/mainColumnTeaserLayout:value:sectionpageteaserlayout\n component:pageLayout/selected/sectionColorCode:value:cat-3\n ref:pageLayout:selected:klartale.DefaultPageLayout\n\\ No newline at end of file"
+    },
+    {
+      "sha": "c1c8787fbc62b8b99d78e59e951d3d2a1e29bd53",
+      "filename": "content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-tema.content",
+      "status": "modified",
+      "additions": 2,
+      "deletions": 1,
+      "changes": 3,
+      "blob_url": "https://github.com/Cefalo/mentor/blob/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-tema.content",
+      "raw_url": "https://github.com/Cefalo/mentor/raw/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-tema.content",
+      "contents_url": "https://api.github.com/repos/Cefalo/mentor/contents/content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-tema.content?ref=aff3b1ad22e7a713616b4ca7221acbc65ea4878b",
+      "patch": "@@ -4,8 +4,9 @@ inputtemplate:p.siteengine.Page\n securityparent:klartale.no\n name:Tema\n component:pathsegment:value:tema\n-component:rightMenu:value:false\n+component:rightMenu:value:true\n component:mobileMenu:value:false\n+#component:hideOnFrontPage:value:false\n component:pageLayout/selected/mainColumnTeaserLayout:value:sectionpageteaserlayout\n component:pageLayout/selected/sectionColorCode:value:cat-5\n ref:pageLayout:selected:klartale.DefaultPageLayout\n\\ No newline at end of file"
+    },
+    {
+      "sha": "897d62246d39e479c052ce03de2b09ce36a3779c",
+      "filename": "content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-tipsOss.content",
+      "status": "modified",
+      "additions": 2,
+      "deletions": 1,
+      "changes": 3,
+      "blob_url": "https://github.com/Cefalo/mentor/blob/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-tipsOss.content",
+      "raw_url": "https://github.com/Cefalo/mentor/raw/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-tipsOss.content",
+      "contents_url": "https://api.github.com/repos/Cefalo/mentor/contents/content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-tipsOss.content?ref=aff3b1ad22e7a713616b4ca7221acbc65ea4878b",
+      "patch": "@@ -5,7 +5,8 @@ securityparent:klartale.no\n name:Tips oss\n component:pathsegment:value:tips-oss\n component:rightMenu:value:true\n-component:mobileMenu:value:false\n+component:mobileMenu:value:true\n+#component:hideOnFrontPage:value:false\n component:pageLayout/selected/mainColumnTeaserLayout:value:staticPageLayout\n ref:pageLayout:selected:klartale.DefaultPageLayout\n list:staticContentList:klartaleTipsOssContent\n\\ No newline at end of file"
+    },
+    {
+      "sha": "5a9efa2e7d6d706bde79a4b4a0e8be1aa2f26050",
+      "filename": "content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-ukasAvis.content",
+      "status": "modified",
+      "additions": 2,
+      "deletions": 1,
+      "changes": 3,
+      "blob_url": "https://github.com/Cefalo/mentor/blob/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-ukasAvis.content",
+      "raw_url": "https://github.com/Cefalo/mentor/raw/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-ukasAvis.content",
+      "contents_url": "https://api.github.com/repos/Cefalo/mentor/contents/content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-ukasAvis.content?ref=aff3b1ad22e7a713616b4ca7221acbc65ea4878b",
+      "patch": "@@ -4,7 +4,8 @@ inputtemplate:p.siteengine.Page\n securityparent:klartale.no\n name:Ukas avis\n component:pathsegment:value:ukasAvis\n-component:hidepage:value:true\n+component:rightMenu:value:false\n+component:mobileMenu:value:false\n component:pageLayout/selected/mainColumnTeaserLayout:value:sectionpageteaserlayout\n ref:pageLayout:selected:klartale.DefaultPageLayout\n component:pageLayout/selected/sectionColorCode:value:cat-4\n\\ No newline at end of file"
+    },
+    {
+      "sha": "76fcd376669f5552414a9e352ead94d043e929ed",
+      "filename": "content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-ukasOppgace.content",
+      "status": "modified",
+      "additions": 2,
+      "deletions": 1,
+      "changes": 3,
+      "blob_url": "https://github.com/Cefalo/mentor/blob/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-ukasOppgace.content",
+      "raw_url": "https://github.com/Cefalo/mentor/raw/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-ukasOppgace.content",
+      "contents_url": "https://api.github.com/repos/Cefalo/mentor/contents/content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-ukasOppgace.content?ref=aff3b1ad22e7a713616b4ca7221acbc65ea4878b",
+      "patch": "@@ -4,7 +4,8 @@ inputtemplate:p.siteengine.Page\n securityparent:klartale.no\n name:Ukas oppgace\n component:pathsegment:value:ukasOppgace\n-component:hidepage:value:true\n+component:rightMenu:value:false\n+component:mobileMenu:value:false\n component:pageLayout/selected/mainColumnTeaserLayout:value:sectionpageteaserlayout\n ref:pageLayout:selected:klartale.DefaultPageLayout\n component:pageLayout/selected/sectionColorCode:value:cat-2\n\\ No newline at end of file"
+    },
+    {
+      "sha": "3cf63ed931d6553038031fc9d9c593901eedaac6",
+      "filename": "content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-ukasOppgave.content",
+      "status": "modified",
+      "additions": 1,
+      "deletions": 0,
+      "changes": 1,
+      "blob_url": "https://github.com/Cefalo/mentor/blob/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-ukasOppgave.content",
+      "raw_url": "https://github.com/Cefalo/mentor/raw/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-ukasOppgave.content",
+      "contents_url": "https://api.github.com/repos/Cefalo/mentor/contents/content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-ukasOppgave.content?ref=aff3b1ad22e7a713616b4ca7221acbc65ea4878b",
+      "patch": "@@ -6,5 +6,6 @@ name:Ukas oppgave\n component:pathsegment:value:ukasOppgave\n component:rightMenu:value:false\n component:mobileMenu:value:true\n+#component:hideOnFrontPage:value:true\n component:pageLayout/selected/mainColumnTeaserLayout:value:sectionpageteaserlayout\n ref:pageLayout:selected:klartale.DefaultPageLayout\n\\ No newline at end of file"
+    },
+    {
+      "sha": "4a507c7d09406bda043b62daa5fe403ba0039fd0",
+      "filename": "content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-ukasPodcast .content",
+      "status": "modified",
+      "additions": 4,
+      "deletions": 2,
+      "changes": 6,
+      "blob_url": "https://github.com/Cefalo/mentor/blob/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-ukasPodcast%20.content",
+      "raw_url": "https://github.com/Cefalo/mentor/raw/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-ukasPodcast%20.content",
+      "contents_url": "https://api.github.com/repos/Cefalo/mentor/contents/content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-ukasPodcast%20.content?ref=aff3b1ad22e7a713616b4ca7221acbc65ea4878b",
+      "patch": "@@ -2,11 +2,13 @@ id:klartaleUkasPodcast\n major:department\n inputtemplate:p.siteengine.Page\n securityparent:klartale.no\n-name:Ukas podcast\n+name:Podcast\n component:pathsegment:value:klartale-podcast\n component:rightMenu:value:false\n component:mobileMenu:value:true\n-component:hideOnFrontPage:value:false\n+#component:hideOnFrontPage:value:true\n component:polopoly.ContentLists:mainColumnArticleSource:mainColumnArticleSource\n component:pageLayout/selected/sectionColorCode:value:cat-6\n+list:mainColumnArticleSource:klartaleUkasPodcastPQ\n ref:pageLayout:selected:dagen.podcast.layout\n+"
+    },
+    {
+      "sha": "8af7358b06eca25c0bf918a727aeaca3a8fbf078",
+      "filename": "content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-verden.content",
+      "status": "modified",
+      "additions": 2,
+      "deletions": 1,
+      "changes": 3,
+      "blob_url": "https://github.com/Cefalo/mentor/blob/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-verden.content",
+      "raw_url": "https://github.com/Cefalo/mentor/raw/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-verden.content",
+      "contents_url": "https://api.github.com/repos/Cefalo/mentor/contents/content/mentormedier-content/src/main/content/content/klartale/navigation/klartale-verden.content?ref=aff3b1ad22e7a713616b4ca7221acbc65ea4878b",
+      "patch": "@@ -4,8 +4,9 @@ inputtemplate:p.siteengine.Page\n securityparent:klartale.no\n name:Verden\n component:pathsegment:value:verden\n-component:rightMenu:value:false\n+component:rightMenu:value:true\n component:mobileMenu:value:false\n+#component:hideOnFrontPage:value:false\n component:pageLayout/selected/mainColumnTeaserLayout:value:sectionpageteaserlayout\n component:pageLayout/selected/sectionColorCode:value:cat-2\n ref:pageLayout:selected:klartale.DefaultPageLayout\n\\ No newline at end of file"
+    },
+    {
+      "sha": "0f6f95794086f5307ccf22c019673e6087c3a754",
+      "filename": "content/mentormedier-content/src/main/content/content/klartale/publishingQueue/klartaleFrontPQ.content",
+      "status": "removed",
+      "additions": 0,
+      "deletions": 14,
+      "changes": 14,
+      "blob_url": "https://github.com/Cefalo/mentor/blob/24d2d4d71ac94da3418063e12e4ea0a75b8e26f0/content/mentormedier-content/src/main/content/content/klartale/publishingQueue/klartaleFrontPQ.content",
+      "raw_url": "https://github.com/Cefalo/mentor/raw/24d2d4d71ac94da3418063e12e4ea0a75b8e26f0/content/mentormedier-content/src/main/content/content/klartale/publishingQueue/klartaleFrontPQ.content",
+      "contents_url": "https://api.github.com/repos/Cefalo/mentor/contents/content/mentormedier-content/src/main/content/content/klartale/publishingQueue/klartaleFrontPQ.content?ref=24d2d4d71ac94da3418063e12e4ea0a75b8e26f0",
+      "patch": "@@ -1,14 +0,0 @@\n-id:klartaleFrontPQ\n-major:article\n-inputtemplate:com.atex.plugins.baseline.MetaDataDrivenPublishingQueue\n-securityparent:klartale.no\n-name:klartale.no articles PQ\n-component:metadata:value:{\"dimensions\"\\:[{\"id\"\\:\"department.categorydimension.subject\",\"name\"\\:\"Subject\",\"enumerable\"\\:true,\"entities\"\\:[]},{\"id\"\\:\"department.categorydimension.tag.Person\",\"name\"\\:\"Person\",\"enumerable\"\\:false,\"entities\"\\:[]},{\"id\"\\:\"department.categorydimension.tag.Company\",\"name\"\\:\"Company\",\"enumerable\"\\:false,\"entities\"\\:[]},{\"id\"\\:\"department.categorydimension.tag.Organisation\",\"name\"\\:\"Organization\",\"enumerable\"\\:false,\"entities\"\\:[]},{\"id\"\\:\"department.categorydimension.tag.Tag\",\"name\"\\:\"Tag\",\"enumerable\"\\:false,\"entities\"\\:[{\"id\"\\:\"klartale.no\",\"name\"\\:\"klartale.no\",\"entities\"\\:[],\"attributes\"\\:[],\"childrenOmitted\"\\:false}]},{\"id\"\\:\"department.categorydimension.tag.Location\",\"name\"\\:\"Location\",\"enumerable\"\\:false,\"entities\"\\:[]}]}\n-component:type:count:1\n-ref:type:reference0:p.templatecategory.article\n-ref:type:reference_parent0:p.StandardResourceCategorization\n-component:associatedSites:count:1\n-ref:associatedSites:reference0:klartale.no\n-ref:associatedSites:reference_parent0:p.siteengine.Sites.d\n-publish:mainColumnArticleSource:klartale.no\n-publish:sources:klartale.no\n\\ No newline at end of file"
+    },
+    {
+      "sha": "6a166879e8c1c7e43127ebe9d5a39bb38b94e164",
+      "filename": "content/mentormedier-content/src/main/content/content/siteengine/sites/klartale.content",
+      "status": "modified",
+      "additions": 5,
+      "deletions": 2,
+      "changes": 7,
+      "blob_url": "https://github.com/Cefalo/mentor/blob/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/content/mentormedier-content/src/main/content/content/siteengine/sites/klartale.content",
+      "raw_url": "https://github.com/Cefalo/mentor/raw/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/content/mentormedier-content/src/main/content/content/siteengine/sites/klartale.content",
+      "contents_url": "https://api.github.com/repos/Cefalo/mentor/contents/content/mentormedier-content/src/main/content/content/siteengine/sites/klartale.content?ref=aff3b1ad22e7a713616b4ca7221acbc65ea4878b",
+      "patch": "@@ -16,8 +16,8 @@ list:polopoly.Department:klartaleDineInnstillinger\n list:polopoly.Department:klartaleAbonnement\n list:polopoly.Department:klartaleKontakt\n list:polopoly.Department:klartaleOmOss\n-list:polopoly.Department:klartaleSok\n list:polopoly.Department:klartaleTipsOss\n+list:polopoly.Department:klartaleSok\n \n \n # primary nav\n@@ -31,6 +31,7 @@ list:polopoly.Department:klartaleBilder\n \n # humburger nav\n list:polopoly.Department:klartaleUkasOppgave\n+list:polopoly.Department:klartaleUkasPodcast\n list:polopoly.Department:klartaleKlartOgKort\n list:polopoly.Department:klartaleNyheterIBilder\n \n@@ -38,12 +39,14 @@ list:polopoly.Department:klartaleNyheterIBilder\n # section\n list:polopoly.Department:klartaleUkasAvis\n list:polopoly.Department:klartaleUkasOppgace\n-list:polopoly.Department:klartaleUkasPodcast\n list:polopoly.Department:klartaleHeltNils\n \n # section but hidden\n list:polopoly.Department:klartaleDagensBilde\n \n+# disqus header text\n+list:disqusHeaderList:klartaleDisqusHeader\n+\n # footer\n list:pageLayout/selected/footer/slotElements:klartale.footer\n "
+    },
+    {
+      "sha": "eac70473c230538820a7077296dc1a9137c3e58e",
+      "filename": "content/mentormedier-content/src/main/content/templates/layout/element/disqus-comment.xml",
+      "status": "modified",
+      "additions": 3,
+      "deletions": 2,
+      "changes": 5,
+      "blob_url": "https://github.com/Cefalo/mentor/blob/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/content/mentormedier-content/src/main/content/templates/layout/element/disqus-comment.xml",
+      "raw_url": "https://github.com/Cefalo/mentor/raw/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/content/mentormedier-content/src/main/content/templates/layout/element/disqus-comment.xml",
+      "contents_url": "https://api.github.com/repos/Cefalo/mentor/contents/content/mentormedier-content/src/main/content/templates/layout/element/disqus-comment.xml?ref=aff3b1ad22e7a713616b4ca7221acbc65ea4878b",
+      "patch": "@@ -29,6 +29,7 @@\n \n     </input-template>\n \n+    <!-- for dagen -->\n     <output-template name=\"disqus.comment.ot\" input-template=\"p.siteengine.ElementOutputTemplate\">\n         <content-xml>\n             <component group=\"output/modelKeyMode\" name=\"selected\">no-cache</component>\n@@ -50,6 +51,7 @@\n         </content-xml>\n     </output-template>\n \n+    <!-- for klartale -->\n     <output-template name=\"klartale.comment.ot\" input-template=\"p.siteengine.ElementOutputTemplate\">\n         <content-xml>\n             <component group=\"output/modelKeyMode\" name=\"selected\">no-cache</component>\n@@ -66,8 +68,7 @@\n                 </contentid>\n             </contentref>\n             <component group=\"output/controller/selected/renderControllerClass\" name=\"value\">no.mentormedier.klartale.content.KlartaleRendererControllerDisqus</component>\n-            <component group=\"preview/controller\"\n-                       name=\"value\">com.polopoly.siteengine.preview.PreviewControllerStandard</component>\n+            <component group=\"preview/controller\" name=\"value\">com.polopoly.siteengine.preview.PreviewControllerStandard</component>\n         </content-xml>\n     </output-template>\n "
+    },
+    {
+      "sha": "6a0677809321fa36ab05397423efb703cd53e23c",
+      "filename": "content/mentormedier-content/src/main/content/templates/layout/page/klartalePageLayout.xml",
+      "status": "modified",
+      "additions": 23,
+      "deletions": 0,
+      "changes": 23,
+      "blob_url": "https://github.com/Cefalo/mentor/blob/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/content/mentormedier-content/src/main/content/templates/layout/page/klartalePageLayout.xml",
+      "raw_url": "https://github.com/Cefalo/mentor/raw/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/content/mentormedier-content/src/main/content/templates/layout/page/klartalePageLayout.xml",
+      "contents_url": "https://api.github.com/repos/Cefalo/mentor/contents/content/mentormedier-content/src/main/content/templates/layout/page/klartalePageLayout.xml?ref=aff3b1ad22e7a713616b4ca7221acbc65ea4878b",
+      "patch": "@@ -85,6 +85,29 @@\n         <field name=\"altSectionName\" input-template=\"p.TextInput\" label=\"Alternative section name (overrides name of page)\"/>\n         <field name=\"sectionColorCode\" input-template=\"p.TextInput\" label=\"Section CSS class (Do not change it without change code)\" />\n \n+        <!-- disqus comment header -->\n+        <layout name=\"disqusHeaderLayout\" input-template=\"p.LabeledSection\" label=\"Disqus Header\">\n+          <field name=\"disqusHeaderContent\" input-template=\"p.SimpleContentCreator\">\n+            <param name=\"insertTargetAlias\">content</param>\n+            <param name=\"askInsertTarget\">false</param>\n+            <param name=\"insertionContentListName\">disqusHeaderList</param>\n+            <param name=\"askInsertionContentListName\">false</param>\n+            <param name=\"askContentListPosition\">false</param>\n+            <param name=\"insertPosition\">top</param>\n+            <idparam name=\"inputTemplateId\">\n+              <externalid>mentor.rich-text-element</externalid>\n+            </idparam>\n+            <param name=\"createWithSecurityParent\">true</param>\n+            <param name=\"securityParentAlias\">content</param>\n+            <param name=\"createLabel\">Create Disqus Header</param>\n+\n+          </field>\n+\n+          <field name=\"disqusHeaderList\" input-template=\"p.ContentListEntryContainer\" label=\"\">\n+            <param name=\"contentListName\">disqusHeaderList</param>\n+          </field>\n+\n+        </layout>\n <!--\n         <layout name=\"carouselsec\" input-template=\"p.LabeledSection\" label=\"Klartale Carousel\">\n             <param name=\"cssClass\">p_section</param>"
+    },
+    {
+      "sha": "25e93af9b7a78465b434880227543acb58292a61",
+      "filename": "content/mentormedier-prod-demo-content/src/main/content/demo/klartale/aa_users/users16115.xml",
+      "status": "modified",
+      "additions": 1,
+      "deletions": 1,
+      "changes": 2,
+      "blob_url": "https://github.com/Cefalo/mentor/blob/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/content/mentormedier-prod-demo-content/src/main/content/demo/klartale/aa_users/users16115.xml",
+      "raw_url": "https://github.com/Cefalo/mentor/raw/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/content/mentormedier-prod-demo-content/src/main/content/demo/klartale/aa_users/users16115.xml",
+      "contents_url": "https://api.github.com/repos/Cefalo/mentor/contents/content/mentormedier-prod-demo-content/src/main/content/demo/klartale/aa_users/users16115.xml?ref=aff3b1ad22e7a713616b4ca7221acbc65ea4878b",
+      "patch": "@@ -15,7 +15,7 @@\n <externalid>klartale.no</externalid>\n </security-parent>\n </metadata>\n-<value name=\"loginName\">ashildma</value>\n+<value name=\"loginName\">ashildma2</value>\n <component group=\"CMUser\" name=\"isCMUser\">true</component>\n <component group=\"FirstName\" name=\"value\">Åshild</component>\n <component group=\"LastName\" name=\"value\">Moen-Arnesen</component>"
+    },
+    {
+      "sha": "9ee0f8fb31ca417335117cdf27eff7094b29dc0e",
+      "filename": "module-integration-server/src/main/java/no/mentormedier/saxoconvertor/ElementDescriptor.java",
+      "status": "modified",
+      "additions": 11,
+      "deletions": 2,
+      "changes": 13,
+      "blob_url": "https://github.com/Cefalo/mentor/blob/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/module-integration-server/src/main/java/no/mentormedier/saxoconvertor/ElementDescriptor.java",
+      "raw_url": "https://github.com/Cefalo/mentor/raw/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/module-integration-server/src/main/java/no/mentormedier/saxoconvertor/ElementDescriptor.java",
+      "contents_url": "https://api.github.com/repos/Cefalo/mentor/contents/module-integration-server/src/main/java/no/mentormedier/saxoconvertor/ElementDescriptor.java?ref=aff3b1ad22e7a713616b4ca7221acbc65ea4878b",
+      "patch": "@@ -12,6 +12,7 @@\n     public static final String IS_ALLOWED_WITH_ATTRIBUTE = \"true\";\n     public static final String IS_NOT_ALLOWED_WITH_ATTRIBUTE = \"true\";\n \n+    private int nodeLimit;\n     private String type;\n     private String query;\n     private Map<String, String> elementMapping;\n@@ -32,9 +33,14 @@ public ElementDescriptor(String query,  Map<String, String> elementMapping) {\n         this.elementMapping = elementMapping;\n     }\n \n+    public ElementDescriptor(String query, int nodeLimit, Map<String, String> elementMapping) {\n+        this(query,elementMapping);\n+        this.nodeLimit = nodeLimit;\n+    }\n+\n     public ElementDescriptor(String query, String type, Map<String, String> elementMapping) {\n-        this(query, type);\n-        this.elementMapping = elementMapping;\n+        this(query, elementMapping);\n+        this.type = type;\n     }\n \n \n@@ -50,5 +56,8 @@ public String getQuery() {\n         return elementMapping;\n     }\n \n+    public int getNodeLimit() {\n+        return nodeLimit;\n+    }\n \n }"
+    },
+    {
+      "sha": "c58bc8ef6545ec7a1391d79478c61d016f796a23",
+      "filename": "module-integration-server/src/main/java/no/mentormedier/saxoconvertor/MainBodyRendererProcessorCmd.java",
+      "status": "modified",
+      "additions": 3,
+      "deletions": 6,
+      "changes": 9,
+      "blob_url": "https://github.com/Cefalo/mentor/blob/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/module-integration-server/src/main/java/no/mentormedier/saxoconvertor/MainBodyRendererProcessorCmd.java",
+      "raw_url": "https://github.com/Cefalo/mentor/raw/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/module-integration-server/src/main/java/no/mentormedier/saxoconvertor/MainBodyRendererProcessorCmd.java",
+      "contents_url": "https://api.github.com/repos/Cefalo/mentor/contents/module-integration-server/src/main/java/no/mentormedier/saxoconvertor/MainBodyRendererProcessorCmd.java?ref=aff3b1ad22e7a713616b4ca7221acbc65ea4878b",
+      "patch": "@@ -1,15 +1,10 @@\n package no.mentormedier.saxoconvertor;\n \n-import com.google.common.base.Strings;\n import com.google.common.collect.ImmutableMap;\n-import org.apache.commons.lang.StringEscapeUtils;\n import org.apache.commons.lang.StringUtils;\n import org.w3c.dom.Element;\n import org.w3c.dom.NodeList;\n \n-import java.text.DateFormat;\n-import java.text.ParseException;\n-import java.text.SimpleDateFormat;\n import java.util.*;\n import java.util.logging.Level;\n import java.util.logging.Logger;\n@@ -49,6 +44,8 @@ public MainBodyRendererProcessorCmd() {\n         bodyMap.put(\"@KUL Anm Musikk C 1 sp\", \"p\");\n         bodyMap.put(\"@KUL Anm Musikk D\", \"p\");\n         bodyMap.put(\"@KUL Anm Musikk D 1 sp\", \"p\");\n+        bodyMap.put(\"@NYH NiN Fakta\", \"p\");\n+        bodyMap.put(\"@NYH NiN Navn\", \"p\");\n         bodyMap.put(\"@KUL Anm Musikk rest vurdering\", \"p\");\n         bodyMap.put(\"@NYH Mellomtittel\", \"h3\");\n         bodyMap.put(\"@KUL Anm brødtekst\", \"h3\");\n@@ -103,7 +100,7 @@ public MainBodyRendererProcessorCmd() {\n         //map.put(\"tag\", new ElementDescriptor(\"/nitf/head/docdata/date.release/@norm\", \"attribute\"));\n \n \n-        map.put(\"creator\", new ElementDescriptor(\"/nitf/body/body.head/byline/p\", ImmutableMap.of(\"p\", \"\")));\n+        map.put(\"creator\", new ElementDescriptor(\"/nitf/body/body.head/byline/p\", 1, ImmutableMap.of(\"p\", \"\")));\n         map.put(\"lead\", new ElementDescriptor(\"/nitf/body/body.content/block/p\", leadMap));\n         map.put(\"body\", new ElementDescriptor(\"/nitf/body/body.content/block/p\", bodyMap));\n "
+    },
+    {
+      "sha": "0680468806fb33030ec82b3d25ed6077a2f456d2",
+      "filename": "module-integration-server/src/main/java/no/mentormedier/saxoconvertor/Utility.java",
+      "status": "modified",
+      "additions": 29,
+      "deletions": 4,
+      "changes": 33,
+      "blob_url": "https://github.com/Cefalo/mentor/blob/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/module-integration-server/src/main/java/no/mentormedier/saxoconvertor/Utility.java",
+      "raw_url": "https://github.com/Cefalo/mentor/raw/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/module-integration-server/src/main/java/no/mentormedier/saxoconvertor/Utility.java",
+      "contents_url": "https://api.github.com/repos/Cefalo/mentor/contents/module-integration-server/src/main/java/no/mentormedier/saxoconvertor/Utility.java?ref=aff3b1ad22e7a713616b4ca7221acbc65ea4878b",
+      "patch": "@@ -44,8 +44,15 @@ public static String mapPolopolyFormat(NodeList nodes, ElementDescriptor descrip\n \n \n             ///process parent all parent nodes first\n+            int nodelimit ;\n+            if (descriptor.getNodeLimit() == 0) {\n+                nodelimit = nodes.getLength();\n+            } else {\n+                nodelimit = descriptor.getNodeLimit();\n+            }\n+\n             boolean isCommaAdded = false;\n-            for (int i = 0; i < nodes.getLength(); i++) {\n+            for (int i = 0; i < nodelimit; i++) {\n                 Node n = nodes.item(i);\n                 if (ElementDescriptor.ATTRIBUTE_TYPE.equals(descriptor.getType())) {\n                     if (isCommaAdded) {\n@@ -62,7 +69,7 @@ public static String mapPolopolyFormat(NodeList nodes, ElementDescriptor descrip\n                             formattedStrValue += \" \";\n                         }\n \n-                        formattedStrValue += getNodeValue(n);\n+                        formattedStrValue += handleSpecialCondition(getNodeValue(n), styleAttrValue);\n                         isCommaAdded = true;\n                     }\n                 } else {\n@@ -131,17 +138,35 @@ private static String buildSimpleXmlElementPart(Node n, String childXml, Map<Str\n \n         /*In somecases we don't want that corresponding element value don't have any element tag. We get this type logic from Element descriptor. */\n         if (StringUtils.isEmpty(element)) {\n-            return getNodeValue(n);\n+            return handleSpecialCondition(getNodeValue(n), styleAttrValue);\n         }\n \n         /*An element with full properties.*/\n         String attrs = resolveAttr(n);\n         return \"<\" + element + attrs + \">\"\n-                + getNodeValue(n)\n+                + handleSpecialCondition(getNodeValue(n), styleAttrValue)\n                 + childXml\n                 + \"</\" + element + \">\";\n     }\n \n+    private static String handleSpecialCondition(String text, String styleAttrValue) {\n+\n+        if (styleAttrValue.contains(\"@NYH Ingress Dateline\")\n+                || styleAttrValue.contains(\"@NYH Ingress Dateline 1sp\")\n+                || styleAttrValue.contains(\"@NYH C-sak Tekst Dateline\")) {\n+\n+            if (StringUtils.isEmpty(text) || !text.contains(\":\")) {\n+                return text;\n+            }\n+            return text.split(\":\", 2)[1];\n+        }\n+\n+        if (\"@NYH NiN Spørsmål\".equals(styleAttrValue)) {\n+            return \"<b>\" + text + \"</b>\";\n+        }\n+        return text;\n+    }\n+\n     private static String getStyleAttr(Node n) {\n         NamedNodeMap attMap = n.getAttributes();\n         Attr style = (Attr) attMap.getNamedItem(\"style\");"
+    },
+    {
+      "sha": "6f22b118883e5ccba0d0c59b9282110538a0c7e2",
+      "filename": "module-mentormedier/src/main/java/no/mentormedier/content/article/MentorKlarTaleControllerStandardArticle.java",
+      "status": "modified",
+      "additions": 43,
+      "deletions": 8,
+      "changes": 51,
+      "blob_url": "https://github.com/Cefalo/mentor/blob/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/module-mentormedier/src/main/java/no/mentormedier/content/article/MentorKlarTaleControllerStandardArticle.java",
+      "raw_url": "https://github.com/Cefalo/mentor/raw/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/module-mentormedier/src/main/java/no/mentormedier/content/article/MentorKlarTaleControllerStandardArticle.java",
+      "contents_url": "https://api.github.com/repos/Cefalo/mentor/contents/module-mentormedier/src/main/java/no/mentormedier/content/article/MentorKlarTaleControllerStandardArticle.java?ref=aff3b1ad22e7a713616b4ca7221acbc65ea4878b",
+      "patch": "@@ -5,6 +5,7 @@\n import com.polopoly.cm.ContentReference;\n import com.polopoly.cm.ExternalContentId;\n import com.polopoly.cm.client.CMException;\n+import com.polopoly.cm.client.Content;\n import com.polopoly.cm.client.filter.state.OnlineState;\n import com.polopoly.cm.collections.ContentList;\n import com.polopoly.cm.policy.Policy;\n@@ -39,18 +40,54 @@ public void populateModelAfterCacheKey(RenderRequest request, TopModel m, CacheI\n \n         PolicyCMServer cmServer = _policyCMServerProvider.getPolicyCMServer(context);\n         setAbsoluteURL(m, cmServer, context);\n+        setDisqusHeader(m, cmServer, context);\n \n         if(context.getView().equalsIgnoreCase(\"article\")){\n             setFrontPageArticles(m, cmServer, context);\n         }\n     }\n \n+    private void setDisqusHeader(TopModel m, PolicyCMServer cmServer, ControllerContext context){\n+        try {\n+            PagePolicy pagePolicy = (PagePolicy) cmServer.getPolicy(new ExternalContentId(\"klartale.no\"));\n+\n+            List<Content> disqusHeaderContentList = new ArrayList<Content>();\n+            ContentList disqusHeaderList = pagePolicy.getContent().getContentList(\"disqusHeaderList\");\n+\n+            if(disqusHeaderList != null && disqusHeaderList.size() > 0){\n+                Content content = cmServer.getPolicy(disqusHeaderList.getEntry(0).getReferredContentId()).getContent();\n+                disqusHeaderContentList.add(content);\n+            }\n+\n+            ModelPathUtil.set(m.getLocal(), \"disqusHeaderList\", disqusHeaderContentList);\n+\n+        }catch (Exception ex){\n+            ex.printStackTrace();\n+        }\n+    }\n     private void setFrontPageArticles(TopModel m, PolicyCMServer cmServer, ControllerContext context){\n \n         try{\n             PagePolicy pagePolicy = (PagePolicy) cmServer.getPolicy(new ExternalContentId(\"klartale.no\"));\n+            ContentList topTeaserList = pagePolicy.getContent().getContentList(\"topTeaserList\");\n             ContentList mainColumnArticleSource = pagePolicy.getContent().getContentList(\"mainColumnArticleSource\");\n \n+            List<ContentId> contentIdList = new ArrayList<ContentId>();\n+            ContentId currentId = context.getContentId();\n+            OnlineState onlineState = new OnlineState();\n+\n+            if(topTeaserList != null && topTeaserList.size() > 0){\n+                ContentId topTeasersId = topTeaserList.getEntry(0).getReferredContentId();\n+                if(topTeasersId != null){\n+                    Policy teaserPolicy =  cmServer.getPolicy(topTeasersId);\n+\n+                    if(teaserPolicy instanceof MentorStandardArticlePolicy){\n+                        if(!contentIdList.contains(topTeasersId) && !currentId.equals(topTeasersId))\n+                            contentIdList.add(topTeasersId);\n+                    }\n+                }\n+            }\n+\n             if (mainColumnArticleSource == null) {\n                 throw  new CMException(\"Publish Queue is null!\");\n             }\n@@ -61,8 +98,7 @@ private void setFrontPageArticles(TopModel m, PolicyCMServer cmServer, Controlle\n                     Policy pqPolicy = cmServer.getPolicy(pqContentReference);\n \n                     if (pqPolicy instanceof PublishingQueuePolicyBase) {\n-                        List<ContentId> contentIdList = new ArrayList<ContentId>();\n-                        ContentId currentId = context.getContentId();\n+\n                         ContentList pqList = pqPolicy.getContent().getContentList();\n                         ListIterator<ContentReference> itr = pqList.getListIterator();\n                         int pqSize = 0,limit = 6;\n@@ -78,13 +114,12 @@ private void setFrontPageArticles(TopModel m, PolicyCMServer cmServer, Controlle\n                                 Policy item = cmServer.getPolicy(itemReference.getReferredContentId());\n                                 ContentId tempId = itemReference.getReferredContentId();\n \n-                                OnlineState onlineState = new OnlineState();\n                                 if (onlineState.isOnline(item.getContent()) && !contentIdList.contains(tempId)){\n-                                   if(!tempId.equals(currentId)) {\n+                                    if(!tempId.equals(currentId)) {\n                                         contentIdList.add(tempId);\n-                                   }else{\n+                                    }else{\n                                         continue;\n-                                   }\n+                                    }\n                                 }\n                             }else{\n                                 break;\n@@ -100,7 +135,7 @@ private void setFrontPageArticles(TopModel m, PolicyCMServer cmServer, Controlle\n             }\n \n         }catch(CMException e){\n-           e.printStackTrace();\n+            e.printStackTrace();\n         }\n     }\n \n@@ -110,7 +145,7 @@ private void setAbsoluteURL(TopModel m, PolicyCMServer cmServer, ControllerConte\n             ContentId contentId = context.getContentId().getContentId();\n             String contentUrl = LinkUtil.getAbsoluteContentUrl(cmServer, contentId);\n             ModelPathUtil.set(m.getLocal(), \"thisURL\", contentUrl);\n-            //ModelPathUtil.set(m.getLocal(), \"thisContentId\", LinkUtil.getContentIdOnlyAsString(contentId.toString()));\n+            ModelPathUtil.set(m.getLocal(), \"thisContentId\", LinkUtil.getContentIdOnlyAsString(contentId.toString()));\n             ModelPathUtil.set(m.getLocal(), \"publishingDatetime\", publishingDatetime(context));\n             ModelPathUtil.set(m.getLocal(), \"sharedUrl\", getSharedUrl(cmServer, context));\n             ModelPathUtil.set(m.getLocal(), \"siteUrl\", getKlartaleSiteUrl(context));"
+    },
+    {
+      "sha": "619aa4d6b90163766c189400273784c7e499f581",
+      "filename": "module-mentormedier/src/main/java/no/mentormedier/content/article/MentorStandardArticlePolicy.java",
+      "status": "modified",
+      "additions": 1,
+      "deletions": 0,
+      "changes": 1,
+      "blob_url": "https://github.com/Cefalo/mentor/blob/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/module-mentormedier/src/main/java/no/mentormedier/content/article/MentorStandardArticlePolicy.java",
+      "raw_url": "https://github.com/Cefalo/mentor/raw/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/module-mentormedier/src/main/java/no/mentormedier/content/article/MentorStandardArticlePolicy.java",
+      "contents_url": "https://api.github.com/repos/Cefalo/mentor/contents/module-mentormedier/src/main/java/no/mentormedier/content/article/MentorStandardArticlePolicy.java?ref=aff3b1ad22e7a713616b4ca7221acbc65ea4878b",
+      "patch": "@@ -174,6 +174,7 @@ public void preCommitSelf()\n         } else if (isKlartaleArticle()) {\n             handleMissingContributor();\n             addSectionTagIfNotPresent();\n+            addDisqusIdentifier();\n         }\n \n         setComponentIfNotSet(\"fullWidthTeaserFontSize\", \"value\", \"44\");"
+    },
+    {
+      "sha": "a3f27230e18835eef84345c1111206a7d501a37c",
+      "filename": "module-mentormedier/src/main/java/no/mentormedier/klartale/content/KlartalePageLayoutRendererController.java",
+      "status": "modified",
+      "additions": 21,
+      "deletions": 0,
+      "changes": 21,
+      "blob_url": "https://github.com/Cefalo/mentor/blob/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/module-mentormedier/src/main/java/no/mentormedier/klartale/content/KlartalePageLayoutRendererController.java",
+      "raw_url": "https://github.com/Cefalo/mentor/raw/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/module-mentormedier/src/main/java/no/mentormedier/klartale/content/KlartalePageLayoutRendererController.java",
+      "contents_url": "https://api.github.com/repos/Cefalo/mentor/contents/module-mentormedier/src/main/java/no/mentormedier/klartale/content/KlartalePageLayoutRendererController.java?ref=aff3b1ad22e7a713616b4ca7221acbc65ea4878b",
+      "patch": "@@ -9,6 +9,7 @@\n import com.polopoly.cm.client.Content;\n import com.polopoly.cm.client.filter.state.OnlineState;\n import com.polopoly.cm.collections.ContentList;\n+import com.polopoly.cm.policy.ContentPolicy;\n import com.polopoly.cm.policy.Policy;\n import com.polopoly.cm.policy.PolicyCMServer;\n import com.polopoly.model.ModelPathUtil;\n@@ -19,6 +20,7 @@\n import com.polopoly.siteengine.structure.PagePolicy;\n import example.layout.RenderControllerDefaultPageLayout;\n import no.mentormedier.dagsavisen.content.SectionData;\n+import org.apache.commons.lang.StringUtils;\n \n import java.util.*;\n import java.util.logging.Level;\n@@ -39,6 +41,25 @@ public void populateModelAfterCacheKey(RenderRequest request, TopModel m, CacheI\n         super.populateModelAfterCacheKey(request, m, cacheInfo, context);\n         PolicyCMServer cmServer = _policyCMServerProvider.getPolicyCMServer(context);\n \n+        ContentPolicy disqusPolicy = null;\n+        try {\n+            disqusPolicy = (ContentPolicy) cmServer.getPolicy(new ExternalContentId(\"klartale.disqus.settings\"));\n+            String publicKey = disqusPolicy.getComponent(\"publicKey\", \"value\");\n+            String shortName = disqusPolicy.getComponent(\"shortName\", \"value\");\n+\n+            if (StringUtils.isEmpty(publicKey)) {\n+                throw new CMException(\"klartale public key is empty!\");\n+            }\n+            if (StringUtils.isEmpty(shortName)) {\n+                throw new CMException(\"Klartale short name is empty!\");\n+            }\n+\n+            ModelPathUtil.set(m.getLocal(), \"publicKey\", publicKey);\n+            ModelPathUtil.set(m.getLocal(), \"shortName\", shortName);\n+        } catch (CMException e) {\n+            LOG.log(Level.WARNING, \"Exception\", e);\n+        }\n+\n         try {\n             Content content = (Content) cmServer.getContent(context.getContentId());\n             String layoutType = content.getComponent(\"pageLayout/selected/mainColumnTeaserLayout\", \"value\");"
+    },
+    {
+      "sha": "340be21bbba968dafdcb7a3c4f7238aea52ca1b3",
+      "filename": "module-mentormedier/src/main/java/no/mentormedier/klartale/content/KlartaleRendererControllerDisqus.java",
+      "status": "modified",
+      "additions": 2,
+      "deletions": 1,
+      "changes": 3,
+      "blob_url": "https://github.com/Cefalo/mentor/blob/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/module-mentormedier/src/main/java/no/mentormedier/klartale/content/KlartaleRendererControllerDisqus.java",
+      "raw_url": "https://github.com/Cefalo/mentor/raw/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/module-mentormedier/src/main/java/no/mentormedier/klartale/content/KlartaleRendererControllerDisqus.java",
+      "contents_url": "https://api.github.com/repos/Cefalo/mentor/contents/module-mentormedier/src/main/java/no/mentormedier/klartale/content/KlartaleRendererControllerDisqus.java?ref=aff3b1ad22e7a713616b4ca7221acbc65ea4878b",
+      "patch": "@@ -36,12 +36,13 @@ public void populateModelAfterCacheKey(RenderRequest request, TopModel m, CacheI\n             secretKey = disqusSettings.getComponent(\"secretKey\", \"value\");\n             publicKey = disqusSettings.getComponent(\"publicKey\", \"value\");\n             shortName = disqusSettings.getComponent(\"shortName\", \"value\");\n+\n         } catch (CMException e) {\n             LOG.log(Level.WARNING, \"CME Exception\", e);\n         }\n \n         if (StringUtils.isEmpty(secretKey)) {\n-            LOG.log(Level.WARNING, \"Disqus secret api key is missing\");\n+            LOG.log(Level.WARNING, \"klartale secret api key is missing\");\n             return;\n         }\n         ModelPathUtil.set(m.getLocal(), \"publicKey\", publicKey);"
+    },
+    {
+      "sha": "a0e150b54e30abef8c80c4bd1500632ef85139d8",
+      "filename": "webapp-dispatcher/src/main/webapp/WEB-INF/velocity/dagen/www/fragments/dagen.standardarticle.default.vm",
+      "status": "modified",
+      "additions": 0,
+      "deletions": 9,
+      "changes": 9,
+      "blob_url": "https://github.com/Cefalo/mentor/blob/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/webapp-dispatcher/src/main/webapp/WEB-INF/velocity/dagen/www/fragments/dagen.standardarticle.default.vm",
+      "raw_url": "https://github.com/Cefalo/mentor/raw/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/webapp-dispatcher/src/main/webapp/WEB-INF/velocity/dagen/www/fragments/dagen.standardarticle.default.vm",
+      "contents_url": "https://api.github.com/repos/Cefalo/mentor/contents/webapp-dispatcher/src/main/webapp/WEB-INF/velocity/dagen/www/fragments/dagen.standardarticle.default.vm?ref=aff3b1ad22e7a713616b4ca7221acbc65ea4878b",
+      "patch": "@@ -243,8 +243,6 @@\n \n <script type=\"text/javascript\">\n \n-    var alreadyScrolled = false;\n-\n     jQuery(document).ready(function(){\n         $(\".slide-item img\").removeAttr(\"width\");\n \n@@ -252,7 +250,6 @@\n             alreadyScrolled = true;\n         });\n \n-\n         var currentVal = $(\"#twitter-share\").attr(\"href\");\n         var text = encodeURIComponent(document.title) + \" \" + document.URL;\n         var updatedVal = currentVal.replace(\"<text>\", text);\n@@ -267,12 +264,6 @@\n         $(\"#bottom-share\").html(content);\n     });\n \n-    $(window).bind(\"load\", function() {\n-\n-        if(!alreadyScrolled)\n-          $('html,body').animate({scrollTop: $('#main').offset().top - 30}, 1000);\n-    });\n-\n </script>\n \n "
+    },
+    {
+      "sha": "2940d7bd03077c2475732170716c05fe0ec4b412",
+      "filename": "webapp-dispatcher/src/main/webapp/WEB-INF/velocity/klartale/www/klartale-front-top-part.vm",
+      "status": "modified",
+      "additions": 7,
+      "deletions": 3,
+      "changes": 10,
+      "blob_url": "https://github.com/Cefalo/mentor/blob/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/webapp-dispatcher/src/main/webapp/WEB-INF/velocity/klartale/www/klartale-front-top-part.vm",
+      "raw_url": "https://github.com/Cefalo/mentor/raw/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/webapp-dispatcher/src/main/webapp/WEB-INF/velocity/klartale/www/klartale-front-top-part.vm",
+      "contents_url": "https://api.github.com/repos/Cefalo/mentor/contents/webapp-dispatcher/src/main/webapp/WEB-INF/velocity/klartale/www/klartale-front-top-part.vm?ref=aff3b1ad22e7a713616b4ca7221acbc65ea4878b",
+      "patch": "@@ -3,7 +3,11 @@\n     <!-- LOGO -->\n     <div class=\"col-sm-4\" style=\"padding: 0;\">\n         <a id=\"logo\" href=\"/\" title=\"Klar Tale logotyp\">\n+          #if($content.topTeaserList && $content.topTeaserList.list.size() > 0)\n+            <img src=\"/img/klartale/klartale-logo-small.svg\" alt=\"alternative_text\">\n+          #else\n             <img src=\"/img/klartale/klartale-logo.svg\" alt=\"alternative_text\">\n+          #end\n             <small>\n               #if($noLocale)\n                 $date.format(\"dd MMMM EEEE\", $date.systemTime, $noLocale)\n@@ -21,9 +25,10 @@\n     #set ($list = $content.mainColumnArticleSource.list)\n \n     #if($content.topTeaserList && $content.topTeaserList.list.size() > 0)\n-            #render({\"content\":$content.topTeaserList.list.get(0).content.contentId, \"params\":{\"view\":\"large-view\"}, \"\":\"\"})\n+      #render({\"content\":$content.topTeaserList.list.get(0).content.contentId, \"params\":{\"view\":\"front-topmost-view\"}, \"\":\"\"})\n+    #end\n \n-    #elseif ($list.size() > 0)\n+    #if ($list.size() > 0)\n         #set ($publishingQueue = $list.get(0).content)\n         #set ($contentList = $publishingQueue.contentList)\n \n@@ -32,7 +37,6 @@\n         #end\n     #end\n \n-\n      <div class=\"tabs-wrapper\">\n         <ul class=\"tabs\" role=\"tablist\">\n             <li class=\"active\">"
+    },
+    {
+      "sha": "3bc7fa20865aa0b06af0c32ccb569104fa0fc163",
+      "filename": "webapp-dispatcher/src/main/webapp/WEB-INF/velocity/klartale/www/klartale.standardarticle.vm",
+      "status": "modified",
+      "additions": 59,
+      "deletions": 11,
+      "changes": 70,
+      "blob_url": "https://github.com/Cefalo/mentor/blob/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/webapp-dispatcher/src/main/webapp/WEB-INF/velocity/klartale/www/klartale.standardarticle.vm",
+      "raw_url": "https://github.com/Cefalo/mentor/raw/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/webapp-dispatcher/src/main/webapp/WEB-INF/velocity/klartale/www/klartale.standardarticle.vm",
+      "contents_url": "https://api.github.com/repos/Cefalo/mentor/contents/webapp-dispatcher/src/main/webapp/WEB-INF/velocity/klartale/www/klartale.standardarticle.vm?ref=aff3b1ad22e7a713616b4ca7221acbc65ea4878b",
+      "patch": "@@ -100,7 +100,43 @@\n     <meta property=\"og:url\" content=\"http://$m.request.httpRequest.serverName#link({\"path\": $path, 'htmlEncodeLink': 'true', \"\":\"\"})\">\n     <meta property=\"og:image\" content=\"$imageURL\" />\n \n-\n+###elseif($view && $view == \"front-topmost-view\")\n+##<article class=\"teaser large topmost\" itemscope itemtype=\"http://schema.org/NewsArticle\" role=\"article\">\n+##    <a href=\"#link({\"path\": $path, 'htmlEncodeLink': 'true', \"\":\"\"})\" title=\"$!esc.html($content.teaserHeading)\" itemprop=\"url\">\n+##      #if ($image)\n+##        #set ($alttext = $!esc.html($image.meta.alttext.value))\n+##        #imageresource({\"contentId\": $image.contentId,\n+##        \"derivative\": \"169_640\",\n+##        \"class\": \"left\",\n+##        \"alt\": $alttext,\n+##        \"\":\"\"})\n+##      #end\n+##        <h1 itemprop=\"name headline\">$!esc.html($content.teaserHeading)</h1>\n+##        <div class=\"content\">\n+##            <span class=\"$content.sectionColorCode\" itemprop=\"keywords\">$content.sectionName</span>\n+##            <h2>$!esc.html($content.teaserText)</h2>\n+##        </div>\n+##    </a>\n+##</article>\n+\n+#elseif($view && $view == \"front-topmost-view\")\n+<article class=\"teaser large extra\" role=\"article\" itemtype=\"http://schema.org/NewsArticle\" itemscope=\"\">\n+    <a href=\"#link({\"path\": $path, 'htmlEncodeLink': 'true', \"\":\"\"})\" title=\"$!esc.html($content.teaserHeading)\" itemprop=\"url\">\n+      #if ($image)\n+        #set ($alttext = $!esc.html($image.meta.alttext.value))\n+        #imageresource({\"contentId\": $image.contentId,\n+        \"derivative\": \"169_640\",\n+        \"class\": \"left\",\n+        \"alt\": $alttext,\n+        \"\":\"\"})\n+      #end\n+        <h1 itemprop=\"name headline\"><span>EXTRA: </span>$!esc.html($content.teaserHeading)</h1>\n+        <div class=\"content\">\n+            <span class=\"$content.sectionColorCode\" itemprop=\"keywords\">$content.sectionName</span>\n+            <h2>$!esc.html($content.teaserText)</h2>\n+        </div>\n+    </a>\n+</article>\n \n #elseif($view && $view == \"large-view\")\n     <article class=\"teaser large\" itemscope itemtype=\"http://schema.org/NewsArticle\" role=\"article\">\n@@ -413,16 +449,20 @@\n                   </li>\n               </ul>\n           </div><!-- /.social-media -->\n-#*        <span class=\"shared\">\n-            <span class=\"shareCountArticle\"  style=\"display: none;\">\n-                $sharedUrl\n-            </span>\n-            <span class=\"smCounter\"></span> delinger\n-        </span>*#\n-          <span class=\"comments\">\n+\n+        <span class=\"shared\">\n+            <span class=\"shareCountArticle\" style=\"display: none\">\n+                 $sharedUrl\n+              </span>\n+            <span class=\"smCounter\"></span>  delningar\n+        </span>\n+          <a href=\"#comments\" class=\"comments\">\n               <i class=\"fa fa-comments-o\"></i>\n-              <span class='comment-count'></span> kommentarer\n-          </span>\n+              <span id=\"disqus_$thisContentId\">0  kommentarer\n+                 <input type=\"hidden\" value=\"$thisURL\">\n+              </span>\n+          </a>\n+\n           <time>\n               <i class=\"fa fa-clock-o\"></i>\n               $publishingDatetime &nbsp;\n@@ -517,10 +557,18 @@\n \n         <!-- COMMENTS -->\n         #if($content.klartaleShowDisqusComment.value == true)\n+\n             <div id=\"comments\" class=\"col-sm-12\">\n+\n                 <h4>KOMMENTARER</h4>\n+                <div style=\"text-align: left\">\n+                  #if($disqusHeaderList  && $disqusHeaderList.size() > 0)\n+                    #render({\"content\": $disqusHeaderList.get(0).content, \"\":\"\"})\n+                  #end\n+\n+                </div>\n                 <div id=\"disqus-part\">\n-                    #render({\"content\": \"klartale-disqus-comment\", \"params\":{\"disqusIdentifier\":\"$content.disqusIdentifier.value\", \"siteUrl\":\"$siteUrl\"}, \"\":\"\"})\n+                  #render({\"content\": \"klartale-disqus-comment\", \"params\":{\"disqusIdentifier\":\"$content.disqusIdentifier.value\", \"siteUrl\":\"$siteUrl\"}, \"\":\"\"})\n                 </div>\n             </div>\n         #end"
+    },
+    {
+      "sha": "7f13d01f50fb134a0af0d4751e1cf08bc526f539",
+      "filename": "webapp-dispatcher/src/main/webapp/WEB-INF/velocity/klartale/www/klartalePageLayout.vm",
+      "status": "modified",
+      "additions": 4,
+      "deletions": 0,
+      "changes": 4,
+      "blob_url": "https://github.com/Cefalo/mentor/blob/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/webapp-dispatcher/src/main/webapp/WEB-INF/velocity/klartale/www/klartalePageLayout.vm",
+      "raw_url": "https://github.com/Cefalo/mentor/raw/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/webapp-dispatcher/src/main/webapp/WEB-INF/velocity/klartale/www/klartalePageLayout.vm",
+      "contents_url": "https://api.github.com/repos/Cefalo/mentor/contents/webapp-dispatcher/src/main/webapp/WEB-INF/velocity/klartale/www/klartalePageLayout.vm?ref=aff3b1ad22e7a713616b4ca7221acbc65ea4878b",
+      "patch": "@@ -231,5 +231,9 @@\n     #end\n </div>\n \n+<script>\n+    getDisqusCommentCount('$publicKey','$shortName');\n+</script>\n+\n </body>\n </html>\n\\ No newline at end of file"
+    },
+    {
+      "sha": "e67913343bc4b6208ce986132e01dbc44dadf6c6",
+      "filename": "webapp-dispatcher/src/main/webapp/WEB-INF/velocity/klartale/www/navigation.vm",
+      "status": "modified",
+      "additions": 5,
+      "deletions": 5,
+      "changes": 10,
+      "blob_url": "https://github.com/Cefalo/mentor/blob/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/webapp-dispatcher/src/main/webapp/WEB-INF/velocity/klartale/www/navigation.vm",
+      "raw_url": "https://github.com/Cefalo/mentor/raw/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/webapp-dispatcher/src/main/webapp/WEB-INF/velocity/klartale/www/navigation.vm",
+      "contents_url": "https://api.github.com/repos/Cefalo/mentor/contents/webapp-dispatcher/src/main/webapp/WEB-INF/velocity/klartale/www/navigation.vm?ref=aff3b1ad22e7a713616b4ca7221acbc65ea4878b",
+      "patch": "@@ -5,7 +5,7 @@\n <nav id=\"top-nav\">\n     <ul>\n         #foreach($page in $navigation)\n-            #if($page.content.rightMenu.value == true && $page.content.mobileMenu.value == false && $page.content.hidepage.value !=true)\n+            #if($page.content.rightMenu.value == true && $page.content.mobileMenu.value == true )\n                 <li>\n                     #renderwithfallback({\"content\": $page.content, \"params\":{\"mode\":\"link\"}, \"\":\"\"})\n                         <a href=\"#link({\"path\": $path, \"contentId\": $page.contentId, 'htmlEncodeLink': 'true', \"\":\"\"})\">$page.content.name</a>\n@@ -22,7 +22,7 @@\n <nav id=\"primary-nav\" class=\"col-sm-8\">\n     <ul>\n         #foreach($page in $navigation)\n-            #if($page.content.rightMenu.value == false && $page.content.mobileMenu.value == false && $page.content.hidepage.value !=true)\n+            #if($page.content.rightMenu.value == true && $page.content.mobileMenu.value == false )\n                 #set($colorCss = $page.content.get(\"_data\").selectedPageLayout.getChildValue(\"sectionColorCode\"))\n \n                 <li  #if($m.request.originalContentPath.contains($page.contentId)) class=\"$colorCss current-menu-item\" #else class=\"$colorCss\" #end>\n@@ -62,7 +62,7 @@\n             <li style=\"background-color: deepskyblue\"><a href=\"/\" title=\"\">Forsiden</a></li>\n             #foreach($page in $navigation)\n                 #set($colorCss = $page.content.get(\"_data\").selectedPageLayout.getChildValue(\"sectionColorCode\"))\n-                #if($page.content.rightMenu.value == false && $page.content.mobileMenu.value == false && $page.content.hidepage.value !=true)\n+                #if($page.content.rightMenu.value == true && $page.content.mobileMenu.value == false )\n                     <li class=\"$colorCss\">\n                         #renderwithfallback({\"content\": $page.content, \"params\":{\"mode\":\"link\"}, \"\":\"\"})\n                             <a href=\"#link({\"path\": $path, \"contentId\": $page.contentId, 'htmlEncodeLink': 'true', \"\":\"\"})\">$page.content.name</a>\n@@ -76,7 +76,7 @@\n     <nav id=\"hamburger-top-nav\">\n         <ul>\n             #foreach($page in $navigation)\n-                #if($page.content.rightMenu.value == true && $page.content.mobileMenu.value == false && $page.content.hidepage.value !=true)\n+                #if($page.content.rightMenu.value == true && $page.content.mobileMenu.value == true )\n                 <li>\n                     #renderwithfallback({\"content\": $page.content, \"params\":{\"mode\":\"link\"}, \"\":\"\"})\n                     <a href=\"#link({\"path\": $path, \"contentId\": $page.contentId, 'htmlEncodeLink': 'true', \"\":\"\"})\">$page.content.name</a>\n@@ -91,7 +91,7 @@\n     <nav>\n         <ul>\n             #foreach($page in $navigation)\n-                #if($page.content.mobileMenu.value == true )\n+                #if($page.content.rightMenu.value == false && $page.content.mobileMenu.value == true )\n                 <li>\n                     #renderwithfallback({\"content\": $page.content, \"params\":{\"mode\":\"link\"}, \"\":\"\"})\n                      <a href=\"#link({\"path\": $path, \"contentId\": $page.contentId, 'htmlEncodeLink': 'true', \"\":\"\"})\">$page.content.name</a>"
+    },
+    {
+      "sha": "b328d2f89b68b0c3b7b9c3118b9191d7dec1af9e",
+      "filename": "webapp-dispatcher/src/main/webapp/css/dagen/dagen_custom.css",
+      "status": "modified",
+      "additions": 3,
+      "deletions": 3,
+      "changes": 6,
+      "blob_url": "https://github.com/Cefalo/mentor/blob/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/webapp-dispatcher/src/main/webapp/css/dagen/dagen_custom.css",
+      "raw_url": "https://github.com/Cefalo/mentor/raw/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/webapp-dispatcher/src/main/webapp/css/dagen/dagen_custom.css",
+      "contents_url": "https://api.github.com/repos/Cefalo/mentor/contents/webapp-dispatcher/src/main/webapp/css/dagen/dagen_custom.css?ref=aff3b1ad22e7a713616b4ca7221acbc65ea4878b",
+      "patch": "@@ -745,9 +745,9 @@ a.resklubb_program_anc:visited{\n     position: relative;\n }\n \n-/*.quote-container {*/\n-    /*display:none;*/\n-/*}*/\n+.quote-container {\n+    display:none;\n+}\n \n .quote-container header {\n     font-family: Arial,Helvetica,Sans-serif;"
+    },
+    {
+      "sha": "670d2c733f69df7364b6facae9c06ed858ef41f6",
+      "filename": "webapp-dispatcher/src/main/webapp/css/klartale/style.css",
+      "status": "modified",
+      "additions": 29,
+      "deletions": 16,
+      "changes": 45,
+      "blob_url": "https://github.com/Cefalo/mentor/blob/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/webapp-dispatcher/src/main/webapp/css/klartale/style.css",
+      "raw_url": "https://github.com/Cefalo/mentor/raw/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/webapp-dispatcher/src/main/webapp/css/klartale/style.css",
+      "contents_url": "https://api.github.com/repos/Cefalo/mentor/contents/webapp-dispatcher/src/main/webapp/css/klartale/style.css?ref=aff3b1ad22e7a713616b4ca7221acbc65ea4878b",
+      "patch": "@@ -5686,17 +5686,6 @@ body.front-page {\n     body.front-page h2 {\n       font-size: 1.4em;\n       line-height: 1.4em; } }\n-  body.front-page.extra #logo {\n-    display: none;\n-    max-width: 243px;\n-    padding-bottom: 15px;\n-    margin: 0; }\n-    @media screen and (min-width: 1000px) {\n-      body.front-page.extra #logo {\n-        display: block; } }\n-    body.front-page.extra #logo img {\n-      margin-bottom: -15px;\n-      transition: all 0.5s; }\n body.paper {\n   background: #fff4d4; }\n body.dark {\n@@ -5905,6 +5894,28 @@ a {\n         background: -ms-linear-gradient(top, transparent, #162024);\n         background: -o-linear-gradient(top, transparent, #162024); }\n \n+.extra #logo {\n+  display: none;\n+  max-width: 243px;\n+  padding-bottom: 15px;\n+  margin: 0;\n+  background-image: url(\"/img/klartale/klartale-logo-small.svg\");\n+  width: 244px;\n+  height: 75px;\n+  background-size: 244px 80px; }\n+  @media screen and (min-width: 1000px) {\n+    .extra #logo {\n+      display: block; } }\n+  .extra #logo img {\n+    display: none;\n+    margin-bottom: -15px;\n+    transition: all 0.5s; }\n+  .extra #logo small {\n+    position: absolute;\n+    bottom: -10px; }\n+.extra .large.extra h1 span {\n+  color: #ff1d25; }\n+\n /**\n  * Overrides\n  */\n@@ -6126,11 +6137,13 @@ article {\n       article.large h2 {\n         font-size: 1.6em;\n         line-height: 1.6em; } }\n-  @media screen and (min-width: 1000px) {\n-    article.large.extra h1 {\n-      font-size: 3.7em; } }\n-  article.large.extra h1 span {\n-    color: #ff1d25; }\n+  article.large.extra {\n+    padding: 0 !important; }\n+    @media screen and (min-width: 1000px) {\n+      article.large.extra h1 {\n+        font-size: 3.7em; } }\n+    article.large.extra h1 span {\n+      color: #ff1d25; }\n   article.teaser img {\n     margin-bottom: 0; }\n   article.teaser p {"
+    },
+    {
+      "sha": "a8de44cf7fd3db937bffc4c9431b33ee9d378b87",
+      "filename": "webapp-dispatcher/src/main/webapp/css/klartale/style.css.map",
+      "status": "modified",
+      "additions": 1,
+      "deletions": 1,
+      "changes": 2,
+      "blob_url": "https://github.com/Cefalo/mentor/blob/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/webapp-dispatcher/src/main/webapp/css/klartale/style.css.map",
+      "raw_url": "https://github.com/Cefalo/mentor/raw/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/webapp-dispatcher/src/main/webapp/css/klartale/style.css.map",
+      "contents_url": "https://api.github.com/repos/Cefalo/mentor/contents/webapp-dispatcher/src/main/webapp/css/klartale/style.css.map?ref=aff3b1ad22e7a713616b4ca7221acbc65ea4878b"
+    },
+    {
+      "sha": "230e6642692cd2432308f78c853867ea72c7493a",
+      "filename": "webapp-dispatcher/src/main/webapp/js/klartale/klartale_custom.js",
+      "status": "modified",
+      "additions": 54,
+      "deletions": 0,
+      "changes": 54,
+      "blob_url": "https://github.com/Cefalo/mentor/blob/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/webapp-dispatcher/src/main/webapp/js/klartale/klartale_custom.js",
+      "raw_url": "https://github.com/Cefalo/mentor/raw/aff3b1ad22e7a713616b4ca7221acbc65ea4878b/webapp-dispatcher/src/main/webapp/js/klartale/klartale_custom.js",
+      "contents_url": "https://api.github.com/repos/Cefalo/mentor/contents/webapp-dispatcher/src/main/webapp/js/klartale/klartale_custom.js?ref=aff3b1ad22e7a713616b4ca7221acbc65ea4878b",
+      "patch": "@@ -54,6 +54,8 @@ function countArticleShares() {\n         var mainUrl = $.trim($(this).find(\".shareCountArticle\").html());\n         var placement  = $(this).find(\".smCounter\");\n \n+\n+\n         jQuery.ajax({\n             type: 'GET',\n             dataType: 'json',\n@@ -68,6 +70,58 @@ function countArticleShares() {\n     });\n }//share count\n \n+function getDisqusCommentCount(currPublicKey,currShortName) {\n+\n+    var disqusPublicKey = currPublicKey;\n+    var disqusShortname = currShortName; // Replace with your own shortname\n+    var urlArray = [],\n+        counterHolder = [];\n+\n+    $('span[id^=\"disqus_\"]').each(function () {\n+\n+        var url = $(this).children().val();\n+        if (url != \"\") {\n+            urlArray.push('link:' + encodeURI(url));\n+            counterHolder.push($(this).attr(\"id\"));\n+        }//\n+    });\n+\n+    if (urlArray.length > 0) {\n+\n+        jQuery.ajax({\n+            type: 'GET',\n+            url: \"https://disqus.com/api/3.0/threads/set.jsonp\",\n+            data: { api_key: disqusPublicKey, forum: disqusShortname, thread: urlArray },\n+            cache: false,\n+            dataType: 'jsonp',\n+            success: function (result) {\n+\n+                for (var i in result.response) {\n+\n+                    var checkUrl = result.response[i].link;\n+                    var count = result.response[i].posts;\n+                    var currId = \"\";\n+\n+                    var indStart = checkUrl.lastIndexOf(\"-\") + 1;\n+                    var currCheck = \"disqus_\" + checkUrl.substring(indStart).replace(\".\",\"_\");\n+\n+                    if( jQuery.inArray(currCheck,counterHolder) > -1 ){\n+\n+                        $(\"#\" + currCheck).empty();\n+\n+                        if (count <= 1)\n+                            $(\"#\" + currCheck).html(count + \" kommentar\");\n+                        else\n+                            $(\"#\" + currCheck).html(count + \" kommentarer\");\n+                    }//\n+                }//\n+            },\n+            error: function (xhr, textStatus, errorThrown) {\n+            }\n+        });\n+    }//\n+}//\n+\n \n function getCookies(cname) {\n   var name = cname + \"=\";"
+    }
+  ]
+}
