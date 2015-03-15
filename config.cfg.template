@@ -6,3 +6,5 @@ jira_browse_url = "https://cefalo.atlassian.net/browse/"
 jira_user = "jira username"
 jira_pass = "jira password"
 jira_url = "https://cefalo.atlassian.net/rest/api/latest/issue/"
+
+notes_file = "notes.txt"

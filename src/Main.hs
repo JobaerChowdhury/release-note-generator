@@ -12,7 +12,7 @@ import Control.Lens.Setter ((?~))
 import Data.Aeson.Lens (_Array, key, _String)
 import Data.Traversable (traverse)
 import Data.Text (unpack)
-import Data.List (nub, isInfixOf)
+import Data.List (sort, intercalate, nub, isInfixOf)
 import qualified Data.Configurator as C
 import qualified Data.ByteString as B
 
@@ -29,7 +29,8 @@ data AppConfig = AppConfig {
   jiraUser :: B.ByteString,
   jiraPass :: B.ByteString,
   jiraBrowse :: String,
-  jiraUrl :: String
+  jiraUrl :: String,
+  resultFile :: String
 } deriving (Show)
 
 readConfig :: IO AppConfig
@@ -44,7 +45,8 @@ readConfig = do
   jp <- C.require config "jira_pass" :: IO B.ByteString
   jb <- C.require config "jira_browse_url" :: IO String
   jurl <- C.require config "jira_url" :: IO String
-  return $ AppConfig gu gp gurl ju jp jb jurl
+  rf <- C.require config "notes_file" :: IO String
+  return $ AppConfig gu gp gurl ju jp jb jurl rf
 
 showHint :: IO ()
 showHint = do 
@@ -58,6 +60,7 @@ processRequest args = do
   let tag2 = head $ tail args
   cfg <- readConfig
   result <- fetchNotes cfg tag1 tag2
+  writeFile (resultFile cfg) (intercalate "\n" result)
   mapM_ putStrLn result
 
 -- takes two tag names and prepare the release notes
@@ -75,10 +78,12 @@ process_comments cfg cs = do
   let paired = pairWithKey cs
   let keys = nub $ map snd $ filter (\(_, s) -> s /= "Nothing") paired
   summaries <- mapM (jira_summary_with_url cfg) keys
+  let sortedSummaries = sort $ filter notError summaries
   let verbatim = filter (\s -> not (isInfixOf "Merge" s)) $ map fst $ filter (\(_, s) -> s == "Nothing") paired
-  return $ (filter notError summaries) ++ verbatim
+  let otherTitle = ["\n \n---- Other changes ----"]
+  return $ sortedSummaries ++ otherTitle ++ verbatim
   where
-    notError s = s /= "Error"
+    notError s = not (isInfixOf "Error" s)
 
 request_github :: AppConfig -> String -> String -> IO [String]
 request_github cfg fromTag toTag = do
@@ -87,8 +92,10 @@ request_github cfg fromTag toTag = do
   let gurl = ghUrl cfg
   let opts = defaults & auth ?~ basicAuth gu gp
   let github_url = gurl ++ fromTag ++ "..." ++ toTag
+  putStrLn $ "Requesting github for all commits from " ++ fromTag ++ " to " ++ toTag
   v <- asValue =<< getWith opts github_url
   let msgs = v ^.. responseBody . key "commits" . _Array . traverse . to (\o ->  commitMsg o)  
+  putStrLn "Got response from github ..."
   return $ map unpack $ msgs
   where commitMsg o = o ^?! key "commit" . key "message" . _String
 
@@ -96,7 +103,7 @@ jira_summary_with_url :: AppConfig -> String -> IO String
 jira_summary_with_url cfg jk = do
   summary <- get_jira_summary cfg jk
   let jbu = jiraBrowse cfg
-  return $ jbu ++ jk ++ " : " ++ summary
+  return $ jk ++ ": " ++ summary ++ " | " ++ jbu ++ jk
 
 -- get jira summary for a specific key
 get_jira_summary :: AppConfig -> String -> IO String
