@@ -5,15 +5,15 @@ module Main where
 
 import JiraKeyParser
 
-import Control.Lens ((&), (^.), (^?), (.~), (^?!), to, (^..))
+import qualified Control.Exception as E
+import Control.Lens ((&), (^.), (^?!), to, (^..))
 import Control.Lens.Setter ((?~))
 
 import Data.Aeson.Lens (_Array, key, _String)
 import Data.Traversable (traverse)
-import Data.Text (Text, unpack)
+import Data.Text (unpack)
 import Data.List (nub, isInfixOf)
 import qualified Data.Configurator as C
-import Data.Configurator.Types
 import qualified Data.ByteString as B
 
 import Network.Wreq
@@ -76,7 +76,9 @@ process_comments cfg cs = do
   let keys = nub $ map snd $ filter (\(_, s) -> s /= "Nothing") paired
   summaries <- mapM (jira_summary_with_url cfg) keys
   let verbatim = filter (\s -> not (isInfixOf "Merge" s)) $ map fst $ filter (\(_, s) -> s == "Nothing") paired
-  return $ summaries ++ verbatim
+  return $ (filter notError summaries) ++ verbatim
+  where
+    notError s = s /= "Error"
 
 request_github :: AppConfig -> String -> String -> IO [String]
 request_github cfg fromTag toTag = do
@@ -104,9 +106,26 @@ get_jira_summary cfg jirakey = do
   let jurl = jiraUrl cfg
   let opts = defaults & auth ?~ basicAuth ju jp
   let jiraurl = jurl ++ jirakey ++ "?fields=key,summary"
+  (extractSummary opts jiraurl) `E.catch` \(E.SomeException e ) -> whenError e
+
+extractSummary :: Options -> String -> IO String
+extractSummary opts jiraurl = do
   v <- asValue =<< getWith opts jiraurl
-  let msg = v ^?! responseBody . key "fields" . key "summary" . _String
-  return $ unpack msg
+  let status = v ^. responseStatus . statusCode
+  if (status == 200) then (returnSummary v) else reportError
+  where
+    reportError = do
+      putStrLn "Status not OK."
+      return "Error"
+    returnSummary v = do
+      let msg = v ^?! responseBody . key "fields" . key "summary" . _String
+      putStrLn $ "Got summary: " ++ (show msg)
+      return $ unpack msg
+
+whenError :: E.Exception e => e -> IO String
+whenError _ = do
+  putStrLn "Exception occured."
+  return "Error"
 
 pairWithKey :: [String] -> [(String, String)]
 pairWithKey = map (\s -> (s, (extractKey s)))
