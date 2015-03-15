@@ -1,4 +1,5 @@
 What's remaining
  [Done] read all configurations and hardcoded values from a config file
- Handle errors. Right now if jira returns 404 then it crashes. Should handle gracefully.
- Sort the result according to keys
+ [Done] Handle errors. Right now if jira returns 404 then it crashes. Should handle gracefully.
+ [Done] Sort the result according to keys
+ Refactor
