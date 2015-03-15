@@ -19,9 +19,6 @@ import qualified Data.ByteString as B
 import Network.Wreq
 import System.Environment
 
--- todo Move all url, user/pass in a configuration file. And read from there
--- todo error handling
-
 data AppConfig = AppConfig {
   ghUser :: B.ByteString,
   ghPass :: B.ByteString,
